@@ -16,10 +16,12 @@
     "@langchain/core": "^0.3.62",
     "@langchain/langgraph": "^0.3.6",
     "@langchain/openai": "^0.5.17",
+    "body-parser": "^2.2.0",
     "cheerio": "^1.1.0",
     "cors": "^2.8.5",
     "d3-dsv": "^2.0.0",
     "dotenv": "^17.0.1",
+    "express": "^5.1.0",
     "langchain": "^0.3.29",
     "pdf-parse": "^1.1.1",
     "uuid": "^11.1.0"
