@@ -189,7 +189,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
     const message = req.body;
 
     if (!message.Body) {
-      return res
+      res
         .status(400)
         .json({ error: "Question is required in the request body" });
     }
