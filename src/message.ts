@@ -8,10 +8,10 @@ export async function sendMessage(sendTo: string, message: string) {
       from: "whatsapp:+212719507879",
       to: sendTo,
     })
-    .then((res) => {
+    .then(() => {
       console.log("SENDING ...");
     })
-    .catch((err) => {
-      console.log(err);
+    .catch(() => {
+      console.log("err");
     });
 }
