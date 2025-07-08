@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.ts"
+    "dev": "nodemon server.ts",
+    "start": "pm2 delete chatbotv7; pm2 start --name chatbotv7 \" npx ts-node --transpile-only src/index.ts\""
   },
   "keywords": [],
   "author": "",
