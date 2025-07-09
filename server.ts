@@ -203,11 +203,11 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: new HumanMessage(message.Body),
       },
       {
-        configurable: { sessionId: message.From },
+        configurable: { sessionId: `${message.From}-09-10` },
       }
     );
 
-    // await sendMessage(message.From, answer);
+    await sendMessage(message.From, answer);
     // console.log(messge);
     res.json({ question: message.Body, answer });
   } catch (error) {
