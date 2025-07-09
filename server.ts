@@ -200,14 +200,14 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 
     const answer = await finalRetrievalChain.invoke(
       {
-        question: message.Body,
+        question: new HumanMessage(message.Body),
       },
       {
         configurable: { sessionId: message.From },
       }
     );
 
-    await sendMessage(message.From, answer);
+    // await sendMessage(message.From, answer);
     // console.log(messge);
     res.json({ question: message.Body, answer });
   } catch (error) {
