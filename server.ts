@@ -207,7 +207,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
       }
     );
 
-    // const messge = await sendMessage(message.From, answer);
+    await sendMessage(message.From, answer);
     // console.log(messge);
     res.json({ question: message.Body, answer });
   } catch (error) {
