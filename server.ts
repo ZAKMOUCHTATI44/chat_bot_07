@@ -49,7 +49,7 @@ const initializeChains = async () => {
 
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
-  const loaderTxtLoad = await loaderTxt.load()
+  const loaderTxtLoad = await loaderTxt.load();
   // const pdfload = await pdf.load();
   // const dataload = await data.load();
   // const concoursLoad = await JSONLoaderConcours.load();
@@ -147,8 +147,8 @@ rephrase the follow up question to be a standalone question.`;
     }),
     new StringOutputParser(),
   ]);
-
-  const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement. 
+  const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
+  Si l'utilisateur vous salue (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
   Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
 
 <context>
@@ -200,7 +200,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 
     const answer = await finalRetrievalChain.invoke(
       {
-        question: new HumanMessage(message.Body),
+        question: message.Body,
       },
       {
         configurable: { sessionId: `${message.From}-09-10` },
