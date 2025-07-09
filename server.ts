@@ -21,10 +21,8 @@ import express, { Request, Response } from "express";
 import bodyParser from "body-parser";
 import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
-
 import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
 import { sendMessage } from "./src/message";
-
 const app = express();
 const port = process.env.PORT || 7001;
 
@@ -38,6 +36,9 @@ let finalRetrievalChain: any;
 
 const initializeChains = async () => {
   const loader = new JSONLoader("./data/faq.json");
+
+  const loaderTxt = new TextLoader("./data/general.txt");
+
   // const data = new JSONLoader("./data/data.json");
   // const JSONLoaderConcours = new JSONLoader("./data/concours.json");
   // const dataAll = new JSONLoader("./data/app.json");
@@ -48,6 +49,7 @@ const initializeChains = async () => {
 
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
+  const loaderTxtLoad = await loaderTxt.load()
   // const pdfload = await pdf.load();
   // const dataload = await data.load();
   // const concoursLoad = await JSONLoaderConcours.load();
@@ -60,6 +62,7 @@ const initializeChains = async () => {
 
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
+  const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
   // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
   // const pdfloadSplits = await splitter.splitDocuments(pdfload);
   // const dataloadSplits = await splitter.splitDocuments(dataload);
@@ -67,6 +70,7 @@ const initializeChains = async () => {
 
   await vectorStore.addDocuments(allSplits);
   await vectorStore.addDocuments(splitdocsCsv);
+  await vectorStore.addDocuments(loaderTxtLoadSplit);
   // await vectorStore.addDocuments(pdfloadSplits);
   // await vectorStore.addDocuments(dataloadSplits);
   // await vectorStore.addDocuments(concoursLoadSplits);
@@ -203,8 +207,8 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
       }
     );
 
-    const messge = await sendMessage(message.From, answer);
-    console.log(messge);
+    // const messge = await sendMessage(message.From, answer);
+    // console.log(messge);
     res.json({ question: message.Body, answer });
   } catch (error) {
     console.error("Error processing question:", error);
