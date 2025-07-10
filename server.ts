@@ -176,6 +176,7 @@ rephrase the follow up question to be a standalone question.`;
     new StringOutputParser(),
   ]);
 
+
   const messageHistory = new ChatMessageHistory();
 
   finalRetrievalChain = new RunnableWithMessageHistory({
@@ -205,7 +206,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-1w301793601t39` },
+        configurable: { sessionId: `${message.From}-83013` },
       }
     );
 
