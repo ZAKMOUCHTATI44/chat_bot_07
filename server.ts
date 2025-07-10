@@ -51,7 +51,7 @@ const initializeChains = async () => {
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
   const loaderTxtLoad = await loaderTxt.load();
-  const catalogueTxtLoad = await catalogueTxt.load();
+  const catalogueTxtLoad = await catalogueTxt.load()
   // const pdfload = await pdf.load();
   // const dataload = await data.load();
   // const concoursLoad = await JSONLoaderConcours.load();
@@ -65,7 +65,7 @@ const initializeChains = async () => {
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
   const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
-  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad);
+  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad)
   // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
   // const pdfloadSplits = await splitter.splitDocuments(pdfload);
   // const dataloadSplits = await splitter.splitDocuments(dataload);
@@ -74,7 +74,7 @@ const initializeChains = async () => {
   await vectorStore.addDocuments(allSplits);
   await vectorStore.addDocuments(splitdocsCsv);
   await vectorStore.addDocuments(loaderTxtLoadSplit);
-  await vectorStore.addDocuments(loaderCatalogueTxt);
+  await vectorStore.addDocuments(loaderCatalogueTxt)
   // await vectorStore.addDocuments(pdfloadSplits);
   // await vectorStore.addDocuments(dataloadSplits);
   // await vectorStore.addDocuments(concoursLoadSplits);
@@ -205,7 +205,17 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         .json({ error: "Question is required in the request body" });
     }
 
-    const answer = await finalRetrievalChain.ste(message.Body);
+
+    const answer = await finalRetrievalChain.invoke(
+      {
+        question: message.Body,
+      },
+      {
+        configurable: { sessionId: `${message.From}-09-11` },
+      }
+    );
+
+
 
     await sendMessage(message.From, answer);
     console.log(message.Body);
