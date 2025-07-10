@@ -38,6 +38,7 @@ const initializeChains = async () => {
   const loader = new JSONLoader("./data/faq.json");
 
   const loaderTxt = new TextLoader("./data/general.txt");
+  const catalogueTxt = new TextLoader("./data/Catalogue UIR .txt");
 
   // const data = new JSONLoader("./data/data.json");
   // const JSONLoaderConcours = new JSONLoader("./data/concours.json");
@@ -50,6 +51,7 @@ const initializeChains = async () => {
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
   const loaderTxtLoad = await loaderTxt.load();
+  const catalogueTxtLoad = await catalogueTxt.load();
   // const pdfload = await pdf.load();
   // const dataload = await data.load();
   // const concoursLoad = await JSONLoaderConcours.load();
@@ -63,6 +65,7 @@ const initializeChains = async () => {
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
   const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
+  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad);
   // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
   // const pdfloadSplits = await splitter.splitDocuments(pdfload);
   // const dataloadSplits = await splitter.splitDocuments(dataload);
@@ -71,6 +74,7 @@ const initializeChains = async () => {
   await vectorStore.addDocuments(allSplits);
   await vectorStore.addDocuments(splitdocsCsv);
   await vectorStore.addDocuments(loaderTxtLoadSplit);
+  await vectorStore.addDocuments(loaderCatalogueTxt);
   // await vectorStore.addDocuments(pdfloadSplits);
   // await vectorStore.addDocuments(dataloadSplits);
   // await vectorStore.addDocuments(concoursLoadSplits);
@@ -148,7 +152,7 @@ rephrase the follow up question to be a standalone question.`;
     new StringOutputParser(),
   ]);
   const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
-  Si l'utilisateur vous salue (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
+  Si l'utilisateur vous salue ou bien le context contenient un mot (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
   Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
 
 <context>
@@ -164,10 +168,13 @@ rephrase the follow up question to be a standalone question.`;
     ],
   ]);
 
+  console.log(rephraseQuestionChain);
+
   const conversationalRetrievalChain = RunnableSequence.from([
     RunnablePassthrough.assign({
       standalone_question: rephraseQuestionChain,
     }),
+
     RunnablePassthrough.assign({
       context: documentRetrievalChain,
     }),
@@ -177,8 +184,6 @@ rephrase the follow up question to be a standalone question.`;
   ]);
 
   const messageHistory = new ChatMessageHistory();
-
-  // const expiringStore = new ExpiringMessageHistory(5 * 60 * 1000); // 5 minutes TTL
 
   finalRetrievalChain = new RunnableWithMessageHistory({
     runnable: conversationalRetrievalChain,
@@ -200,14 +205,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         .json({ error: "Question is required in the request body" });
     }
 
-    const answer = await finalRetrievalChain.invoke(
-      {
-        question: message.Body,
-      },
-      {
-        configurable: { sessionId: message.From },
-      }
-    );
+    const answer = await finalRetrievalChain.ste(message.Body);
 
     await sendMessage(message.From, answer);
     console.log(message.Body);
