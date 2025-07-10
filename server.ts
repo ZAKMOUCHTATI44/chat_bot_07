@@ -178,7 +178,7 @@ rephrase the follow up question to be a standalone question.`;
 
   const messageHistory = new ChatMessageHistory();
 
-  const expiringStore = new ExpiringMessageHistory(5 * 60 * 1000); // 5 minutes TTL
+  // const expiringStore = new ExpiringMessageHistory(5 * 60 * 1000); // 5 minutes TTL
 
   finalRetrievalChain = new RunnableWithMessageHistory({
     runnable: conversationalRetrievalChain,
