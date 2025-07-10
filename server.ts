@@ -192,6 +192,8 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
     // const { question } = req.body;
     const message = req.body;
 
+    console.log(JSON.stringify(message));
+
     if (!message.Body) {
       res
         .status(400)
