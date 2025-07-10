@@ -205,7 +205,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: message.From },
+        configurable: { sessionId: `${message.From}-1ihdaodbad` },
       }
     );
 
