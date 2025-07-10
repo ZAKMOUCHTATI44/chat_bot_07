@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { vectorStore } from "./src/vector";
+// import {  } from "./src/vector";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 import {
@@ -23,6 +23,7 @@ import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
 import { sendMessage } from "./src/message";
+import { initVectorStore } from "./src/vector";
 const app = express();
 const port = process.env.PORT || 7001;
 
@@ -31,10 +32,13 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(bodyParser.json());
 
+let vectorStore: any;
+
 // Initialize the vector store and chains
 let finalRetrievalChain: any;
 
 const initializeChains = async () => {
+  const vectorStore = await initVectorStore();
   const loader = new JSONLoader("./data/faq.json");
 
   const loaderTxt = new TextLoader("./data/general.txt");

@@ -1,9 +1,39 @@
-import { MemoryVectorStore } from "langchain/vectorstores/memory";
+import {
+  PGVectorStore,
+  DistanceStrategy,
+} from "@langchain/community/vectorstores/pgvector";
+import { OpenAIEmbeddings } from "@langchain/openai";
+import { PoolConfig } from "pg";
 import { embeddings } from "./openai";
 
-import { PGVectorStore } from "@langchain/community/vectorstores/pgvector";
 
-export const vectorStore = new MemoryVectorStore(embeddings);
-// const vectorStore = await PGVectorStore.initialize(embeddings, {});
+const config = {
+  postgresConnectionOptions: {
+    type: "postgres",
+    host: "127.0.0.1",
+    port: 5432,
+    user: "uir_chat_bot",
+    password: "Dv5F0NSl7L1oDRKW3x3N",
+    database: "db_uir",
+  } as PoolConfig,
+  tableName: "testlangchainjs",
+  columns: {
+    idColumnName: "id",
+    vectorColumnName: "vector",
+    contentColumnName: "content",
+    metadataColumnName: "metadata",
+  },
+  distanceStrategy: "cosine" as DistanceStrategy,
+};
 
-export const retriever = vectorStore.asRetriever();
+let vectorStore: PGVectorStore;
+
+export const initVectorStore = async () => {
+  vectorStore = await PGVectorStore.initialize(embeddings, config);
+  console.log("Inilaizee")
+  return vectorStore; // This is what yo
+};
+
+// initVectorStore();
+
+export { vectorStore };
