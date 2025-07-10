@@ -10,6 +10,7 @@ import cors from "cors";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import * as parse from "pdf-parse";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
+import { sendMessage } from "./src/message";
 
 const app = express();
 const port = process.env.PORT || 7001;
@@ -20,14 +21,14 @@ app.use(express.json());
 
 // Initialize FAQ data and vector store
 let faqGraph: any;
-let  vectorStore: any
+let vectorStore: any;
 
 async function initializeFAQSystem() {
   // Load FAQ data from JSON file
 
   vectorStore = await initVectorStore();
 
-  const data = new JSONLoader("./data/faq.json" , ["/question" , "/answer"]);
+  const data = new JSONLoader("./data/faq.json", ["/question", "/answer"]);
   // const loader = new JSONLoader("./data/data.json");
   const JSONLoaderConcours = new JSONLoader("./data/concours.json");
   const pdf = new PDFLoader("./data/Catalogue.pdf");
@@ -51,6 +52,7 @@ async function initializeFAQSystem() {
 
   // Define prompt for question-answering
   const template = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement. 
+    Si l'utilisateur vous salue ou bien le context contenient un mot (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
   Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'."
 
 
@@ -100,13 +102,14 @@ Helpful Answer:`;
 // API Endpoint to answer questions
 app.post("/api/ask", async (req, res) => {
   try {
-    const { question } = req.body;
+    const message = req.body;
 
-    if (!question) {
-     res.status(400).json({ error: "Question is required" });
+    if (!message.Body) {
+      res
+        .status(400)
+        .json({ error: "Question is required in the request body" });
     }
-
-    const inputsQA = { question };
+    const inputsQA = { question: message.Body };
     let finalAnswer = "";
 
     for await (const chunk of await faqGraph.stream(inputsQA, {
@@ -117,7 +120,10 @@ app.post("/api/ask", async (req, res) => {
       }
     }
 
-    res.json({ question, answer: finalAnswer });
+
+    await sendMessage(message.From, finalAnswer);
+
+    res.json({ question : message.Body, answer: finalAnswer });
   } catch (error) {
     console.error("Error processing question:", error);
     res.status(500).json({ error: "Internal server error" });
