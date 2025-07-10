@@ -1,5 +1,5 @@
 import "dotenv/config";
-// import { vectorStore } from "./src/vector";
+import { vectorStore } from "./src/vector";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 import {
@@ -23,7 +23,6 @@ import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
 import { sendMessage } from "./src/message";
-import { initVectorStore } from "./src/vector";
 const app = express();
 const port = process.env.PORT || 7001;
 
@@ -35,65 +34,47 @@ app.use(bodyParser.json());
 // Initialize the vector store and chains
 let finalRetrievalChain: any;
 
-let vectorStore: any;
-
 const initializeChains = async () => {
   const loader = new JSONLoader("./data/faq.json");
 
   const loaderTxt = new TextLoader("./data/general.txt");
-  const catalogueTxt = new TextLoader("./data/Catalogue UIR .txt");
 
-  const data = new JSONLoader("./data/data.json");
-  const JSONLoaderConcours = new JSONLoader("./data/concours.json");
-  const dataAll = new JSONLoader("./data/app.json");
-  const pdf = new PDFLoader(
-    "./data/Feuille de calcul sans titre - university_fees - Feuille de calcul sans titre - university_fees.csv.pdf"
-  );
+  // const data = new JSONLoader("./data/data.json");
+  // const JSONLoaderConcours = new JSONLoader("./data/concours.json");
+  // const dataAll = new JSONLoader("./data/app.json");
+  // const pdf = new PDFLoader("./data/Feuille de calcul sans titre - university_fees - Feuille de calcul sans titre - university_fees.csv.pdf");
   const exampleCsvPath = "./data/data.csv";
-  const Classeur1 = "./data/Classeur1.xlsx";
 
   const loaderCsv = new CSVLoader(exampleCsvPath);
-
-  const loaderCsv1 = new CSVLoader(Classeur1);
 
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
   const loaderTxtLoad = await loaderTxt.load();
-  const catalogueTxtLoad = await catalogueTxt.load();
   // const pdfload = await pdf.load();
   // const dataload = await data.load();
   // const concoursLoad = await JSONLoaderConcours.load();
   // const dataAllload = await dataAll.load();
-  const loaderCsvLoad = await loaderCsv1.load();
 
   const splitter = new RecursiveCharacterTextSplitter({
     chunkSize: 1000,
     chunkOverlap: 200,
   });
 
-  console.log("************ START ");
-
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
   const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
-  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad);
   // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
   // const pdfloadSplits = await splitter.splitDocuments(pdfload);
   // const dataloadSplits = await splitter.splitDocuments(dataload);
   // const dataAllloadSplits = await splitter.splitDocuments(dataAllload);
 
-  // loaderCsvLoad
-  const loaderCsvLoadSplits = await splitter.splitDocuments(loaderCsvLoad);
-
-  // await vectorStore.addDocuments(allSplits);
-  // await vectorStore.addDocuments(splitdocsCsv);
-  // await vectorStore.addDocuments(loaderTxtLoadSplit);
-  // await vectorStore.addDocuments(loaderCatalogueTxt);
+  await vectorStore.addDocuments(allSplits);
+  await vectorStore.addDocuments(splitdocsCsv);
+  await vectorStore.addDocuments(loaderTxtLoadSplit);
   // await vectorStore.addDocuments(pdfloadSplits);
   // await vectorStore.addDocuments(dataloadSplits);
   // await vectorStore.addDocuments(concoursLoadSplits);
   // await vectorStore.addDocuments(dataAllloadSplits);
-  // await vectorStore.addDocuments(loaderCsvLoadSplits);
 
   console.log("************ LOADING DATA");
 
@@ -108,33 +89,29 @@ const initializeChains = async () => {
   const documentRetrievalChain = RunnableSequence.from([
     (input) => input.standalone_question,
     retriever,
-    // convertDocsToString,
+    convertDocsToString,
   ]);
 
-  const TEMPLATE_STRING = `
-  Vous êtes l'assistant virtuel de l'Université Internationale de Rabat. Votre personnalité est:
-  - Amical(e) et professionnel(le)
-  - Naturel(le) dans vos réponses
-  - Serviable et précis(e)
-  - Utilise un langage courant mais respectueux
-  
+  const TEMPLATE_STRING = `Vous êtes l’assistant de l’Université Internationale de Rabat,
+un chercheur expérimenté,
+expert dans l’interprétation et la réponse aux questions basées sur des sources fournies.
 
-  <context>
+En utilisant uniquement le contexte fourni, vous devez répondre à la question de l’utilisateur
+au mieux de vos capacités, sans jamais vous appuyer sur des connaissances extérieures.
 
-  {context}
-  
-  </context>
-  
-  Guide de réponse:
-  1. Répondez comme un humain, pas comme un robot
-  2. Soyez concis mais complet
-  3. Si vous n’êtes pas certain que la formation fait partie de l’UIR, ne proposez aucune information à son sujet. N’inventez pas de détails ou de filtres inexistants.
-  4. Utilisez des formulations naturelles comme "Je vous conseille..." ou "Pour cela, vous pouvez..."
-  5. Pour les dates, présentez-les toujours dans l'ordre chronologique avec le format: "Lundi 15 janvier 2024"
-  
-  Question: "{question}"
-  
-  Répondez maintenant comme si vous parliez à un étudiant ou visiteur devant vous, de manière naturelle et utile:`;
+Votre réponse doit être très détaillée, explicite et pédagogique. 
+
+et répondre avec la meme langue que prompt
+
+<context>
+
+{context}
+
+</context>
+
+Now, answer this question using the above context:
+
+{question}`;
 
   const answerGenerationPrompt =
     ChatPromptTemplate.fromTemplate(TEMPLATE_STRING);
@@ -171,7 +148,7 @@ rephrase the follow up question to be a standalone question.`;
     new StringOutputParser(),
   ]);
   const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
-  Si l'utilisateur vous salue ou bien le context contenient un mot (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
+  Si l'utilisateur vous salue (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
   Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
 
 <context>
@@ -187,13 +164,10 @@ rephrase the follow up question to be a standalone question.`;
     ],
   ]);
 
-  // console.log(rephraseQuestionChain);
-
   const conversationalRetrievalChain = RunnableSequence.from([
     RunnablePassthrough.assign({
       standalone_question: rephraseQuestionChain,
     }),
-
     RunnablePassthrough.assign({
       context: documentRetrievalChain,
     }),
@@ -212,20 +186,6 @@ rephrase the follow up question to be a standalone question.`;
   });
 };
 
-app.post("/test-retrieval", async (req: Request, res: Response) => {
-  try {
-    const { question } = req.body;
-    const docs = await vectorStore.similaritySearch(question, 5);
-    res.json({
-      documents: docs.map((d: any) => d.pageContent),
-      count: docs.length,
-    });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: "Test failed" });
-  }
-});
-
 // Express route to handle questions
 app.post("/uir-chat-bot", async (req: Request, res: Response) => {
   try {
@@ -243,16 +203,12 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-jbojbojbaojdb` },
+        configurable: { sessionId: `${message.From}-aibdabdad` },
       }
     );
 
     await sendMessage(message.From, answer);
-    // const newResposne = await vectorStore.similaritySearch(message.Body);
-
-    console.log(message.Body);
-    console.log("************************");
-
+    // console.log(messge);
     res.json({ question: message.Body, answer });
   } catch (error) {
     console.error("Error processing question:", error);
@@ -264,7 +220,6 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 
 // Start the server
 const startServer = async () => {
-  vectorStore = await initVectorStore();
   await initializeChains();
   app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);

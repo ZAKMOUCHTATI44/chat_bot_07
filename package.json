@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.ts",
-    "start": "pm2 delete chatbotv7; pm2 start --name chatbotv7 \" npx ts-node --transpile-only index.ts\""
+    "start": "pm2 delete chatbotv7; pm2 start --name chatbotv7 \" npx ts-node --transpile-only server.ts\""
   },
   "keywords": [],
   "author": "",
