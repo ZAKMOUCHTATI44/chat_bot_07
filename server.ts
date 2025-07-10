@@ -35,7 +35,7 @@ app.use(bodyParser.json());
 let finalRetrievalChain: any;
 
 const initializeChains = async () => {
-  const loader = new JSONLoader("./data/faq.json");
+  const loader = new JSONLoader("./data/faq.json" , ["/answer"]);
 
   const loaderTxt = new TextLoader("./data/general.txt");
 
@@ -81,6 +81,9 @@ const initializeChains = async () => {
   const retriever = vectorStore.asRetriever();
 
   const convertDocsToString = (documents: Document[]): string => {
+    console.log(JSON.stringify(documents
+      .map((document) => `<doc>\n${document.pageContent}\n</doc>`)
+      .join("\n")));
     return documents
       .map((document) => `<doc>\n${document.pageContent}\n</doc>`)
       .join("\n");
@@ -147,9 +150,14 @@ rephrase the follow up question to be a standalone question.`;
     }),
     new StringOutputParser(),
   ]);
-  const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
-  Si l'utilisateur vous salue (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
-  Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
+  const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. 
+Répondez poliment et professionnellement en vous basant strictement sur le contexte fourni.
+
+Règles:
+1. Si l'utilisateur vous salue (bonjour, hello, etc.), répondez avec: "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ?"
+2. Si la question n'est pas liée à l'université ou n'est pas dans le contexte, dites: "Je ne peux répondre qu'aux questions concernant l'Université Internationale de Rabat."
+3. Si vous ne trouvez pas la réponse dans le contexte, dites: "Je n'ai pas d'information à ce sujet dans ma base de connaissances."
+4. Répondez dans la même langue que la question.
 
 <context>
 {context}
@@ -192,7 +200,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
     // const { question } = req.body;
     const message = req.body;
 
-    console.log(JSON.stringify(message));
+    // console.log(JSON.stringify(message));
 
     if (!message.Body) {
       res
