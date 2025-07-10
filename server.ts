@@ -84,10 +84,10 @@ const initializeChains = async () => {
   await vectorStore.addDocuments(splitdocsCsv);
   await vectorStore.addDocuments(loaderTxtLoadSplit);
   await vectorStore.addDocuments(loaderCatalogueTxt);
-  await vectorStore.addDocuments(pdfloadSplits);
-  await vectorStore.addDocuments(dataloadSplits);
-  await vectorStore.addDocuments(concoursLoadSplits);
-  await vectorStore.addDocuments(dataAllloadSplits);
+  // await vectorStore.addDocuments(pdfloadSplits);
+  // await vectorStore.addDocuments(dataloadSplits);
+  // await vectorStore.addDocuments(concoursLoadSplits);
+  // await vectorStore.addDocuments(dataAllloadSplits);
   await vectorStore.addDocuments(loaderCsvLoadSplits);
 
   console.log("************ LOADING DATA");
