@@ -210,7 +210,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
     );
 
     await sendMessage(message.From, answer);
-    // console.log(messge);
+    console.log(message.Body);
     res.json({ question: message.Body, answer });
   } catch (error) {
     console.error("Error processing question:", error);
