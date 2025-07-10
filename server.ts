@@ -203,7 +203,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-09-10` },
+        configurable: { sessionId: `${message.From}-09-11` },
       }
     );
 
