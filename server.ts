@@ -57,25 +57,25 @@ const initializeChains = async () => {
   const docsCsv = await loaderCsv.load();
   const loaderTxtLoad = await loaderTxt.load();
   const catalogueTxtLoad = await catalogueTxt.load();
-  const pdfload = await pdf.load();
-  const dataload = await data.load();
-  const concoursLoad = await JSONLoaderConcours.load();
-  const dataAllload = await dataAll.load();
+  // const pdfload = await pdf.load();
+  // const dataload = await data.load();
+  // const concoursLoad = await JSONLoaderConcours.load();
+  // const dataAllload = await dataAll.load();
   const loaderCsvLoad = await loaderCsv1.load();
 
   const splitter = new RecursiveCharacterTextSplitter({
-    chunkSize: 1000,
-    chunkOverlap: 200,
+    chunkSize: 10,
+    chunkOverlap: 1,
   });
 
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
   const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
   const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad);
-  const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
-  const pdfloadSplits = await splitter.splitDocuments(pdfload);
-  const dataloadSplits = await splitter.splitDocuments(dataload);
-  const dataAllloadSplits = await splitter.splitDocuments(dataAllload);
+  // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
+  // const pdfloadSplits = await splitter.splitDocuments(pdfload);
+  // const dataloadSplits = await splitter.splitDocuments(dataload);
+  // const dataAllloadSplits = await splitter.splitDocuments(dataAllload);
 
   // loaderCsvLoad
   const loaderCsvLoadSplits = await splitter.splitDocuments(loaderCsvLoad);
@@ -229,9 +229,15 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
     );
 
     await sendMessage(message.From, answer);
+    const newResposne = await vectorStore.similaritySearch(message.Body)
+
     console.log(message.Body);
     console.log("************************");
-    console.log(answer);
+    console.log(newResposne);
+
+
+
+
     res.json({ question: message.Body, answer });
   } catch (error) {
     console.error("Error processing question:", error);
