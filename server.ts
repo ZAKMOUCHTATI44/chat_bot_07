@@ -149,7 +149,7 @@ rephrase the follow up question to be a standalone question.`;
   ]);
   const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
   Si l'utilisateur vous salue ou bien la question contient (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
-  Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
+  Si vous ne trouvez pas la réponse dans le contexte, dites 'pouvez-vous reformuler cette question ?'.
 
 <context>
 {context}
@@ -206,7 +206,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-83013` },
+        configurable: { sessionId: `${message.From}-t81t381t3` },
       }
     );
 
