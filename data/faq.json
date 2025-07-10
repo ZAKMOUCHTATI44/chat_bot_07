@@ -395,5 +395,9 @@
   {
     "question": "Y a-t-il des concours en septembre ?",
     "answer": "Oui, le 03 septembre ont lieu les oraux pour toutes les filières :<br>- Sciences Po<br>- Psychologie<br>- Droit<br>- Économie<br>- Communication & Médias"
+  },
+  {
+    "question": "Comment fonctionne le simulateur de bourse à l’UIR ?",
+    "answer": "Un simulateur de bourses est désormais accessible aux candidats convoqués aux concours, y compris pour Médecine et Médecine Dentaire. Il permet d’avoir une estimation indicative de la bourse avant l’inscription. 👉 Attention : la simulation ne peut être faite qu’une seule fois et ne remplace pas le dossier officiel. Le montant final de la bourse sera confirmé après dépôt et validation du dossier."
   }
 ]
