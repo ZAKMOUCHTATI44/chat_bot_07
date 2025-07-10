@@ -100,7 +100,7 @@ Helpful Answer:`;
 }
 
 // API Endpoint to answer questions
-app.post("/api/ask", async (req, res) => {
+app.post("/uir-chat-bot", async (req, res) => {
   try {
     const message = req.body;
 
