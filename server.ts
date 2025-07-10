@@ -23,6 +23,7 @@ import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
 import { sendMessage } from "./src/message";
+
 const app = express();
 const port = process.env.PORT || 7001;
 
@@ -36,26 +37,14 @@ let finalRetrievalChain: any;
 
 const initializeChains = async () => {
   const loader = new JSONLoader("./data/faq.json");
-
   const loaderTxt = new TextLoader("./data/general.txt");
   const catalogueTxt = new TextLoader("./data/Catalogue UIR .txt");
-
-  // const data = new JSONLoader("./data/data.json");
-  // const JSONLoaderConcours = new JSONLoader("./data/concours.json");
-  // const dataAll = new JSONLoader("./data/app.json");
-  // const pdf = new PDFLoader("./data/Feuille de calcul sans titre - university_fees - Feuille de calcul sans titre - university_fees.csv.pdf");
-  const exampleCsvPath = "./data/data.csv";
-
-  const loaderCsv = new CSVLoader(exampleCsvPath);
+  const loaderCsv = new CSVLoader("./data/data.csv");
 
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
   const loaderTxtLoad = await loaderTxt.load();
-  const catalogueTxtLoad = await catalogueTxt.load()
-  // const pdfload = await pdf.load();
-  // const dataload = await data.load();
-  // const concoursLoad = await JSONLoaderConcours.load();
-  // const dataAllload = await dataAll.load();
+  const catalogueTxtLoad = await catalogueTxt.load();
 
   const splitter = new RecursiveCharacterTextSplitter({
     chunkSize: 1000,
@@ -65,22 +54,14 @@ const initializeChains = async () => {
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
   const loaderTxtLoadSplit = await splitter.splitDocuments(loaderTxtLoad);
-  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad)
-  // const concoursLoadSplits = await splitter.splitDocuments(concoursLoad);
-  // const pdfloadSplits = await splitter.splitDocuments(pdfload);
-  // const dataloadSplits = await splitter.splitDocuments(dataload);
-  // const dataAllloadSplits = await splitter.splitDocuments(dataAllload);
+  const loaderCatalogueTxt = await splitter.splitDocuments(catalogueTxtLoad);
 
   await vectorStore.addDocuments(allSplits);
   await vectorStore.addDocuments(splitdocsCsv);
   await vectorStore.addDocuments(loaderTxtLoadSplit);
-  await vectorStore.addDocuments(loaderCatalogueTxt)
-  // await vectorStore.addDocuments(pdfloadSplits);
-  // await vectorStore.addDocuments(dataloadSplits);
-  // await vectorStore.addDocuments(concoursLoadSplits);
-  // await vectorStore.addDocuments(dataAllloadSplits);
+  await vectorStore.addDocuments(loaderCatalogueTxt);
 
-  console.log("************ LOADING DATA");
+  console.log("************ LOADING DATA COMPLETE");
 
   const retriever = vectorStore.asRetriever();
 
@@ -96,54 +77,38 @@ const initializeChains = async () => {
     convertDocsToString,
   ]);
 
-  const TEMPLATE_STRING = `Vous êtes l’assistant de l’Université Internationale de Rabat,
-un chercheur expérimenté,
-expert dans l’interprétation et la réponse aux questions basées sur des sources fournies.
+  // Simplified templates
+  const REPHRASE_QUESTION_TEMPLATE = `Please rephrase the following question to be standalone, keeping it simple and clear. If you're unsure, just return the original question:
+  
+  Chat history (if relevant):
+  {history}
+  
+  Follow-up question:
+  {question}
+  
+  Standalone question:`;
 
-En utilisant uniquement le contexte fourni, vous devez répondre à la question de l’utilisateur
-au mieux de vos capacités, sans jamais vous appuyer sur des connaissances extérieures.
+  const ANSWER_TEMPLATE = `You are the assistant for International University of Rabat. Respond politely and professionally in the same language as the question.
+  
+  If greeted, respond with: "Hello! I'm the virtual assistant of International University of Rabat. How can I help you today?"
+  
+  If the answer isn't in the context, simply say: "I don't have that information. Please contact the university directly for more details."
+  
+  Context:
+  {context}
+  
+  Question:
+  {standalone_question}
+  
+  Answer:`;
 
-Votre réponse doit être très détaillée, explicite et pédagogique. 
-
-et répondre avec la meme langue que prompt
-
-<context>
-
-{context}
-
-</context>
-
-Now, answer this question using the above context:
-
-{question}`;
-
-  const answerGenerationPrompt =
-    ChatPromptTemplate.fromTemplate(TEMPLATE_STRING);
-
-  const retrievalChain = RunnableSequence.from([
-    {
-      context: documentRetrievalChain,
-      question: (input) => input.question,
-    },
-    answerGenerationPrompt,
-    llm,
-    new StringOutputParser(),
-  ]);
-
-  const REPHRASE_QUESTION_SYSTEM_TEMPLATE = `Given the following conversation and a follow up question, 
-rephrase the follow up question to be a standalone question.`;
-
-  const rephraseQuestionChainPrompt = ChatPromptTemplate.fromMessages([
-    ["system", REPHRASE_QUESTION_SYSTEM_TEMPLATE],
-    new MessagesPlaceholder("history"),
-    [
-      "human",
-      "Rephrase the following question as a standalone question:\n{question}",
-    ],
-  ]);
-
+  // Simplified chains
   const rephraseQuestionChain = RunnableSequence.from([
-    rephraseQuestionChainPrompt,
+    ChatPromptTemplate.fromMessages([
+      ["system", REPHRASE_QUESTION_TEMPLATE],
+      new MessagesPlaceholder("history"),
+      ["human", "{question}"],
+    ]),
     new ChatOpenAI({
       apiKey: process.env.OPENAI_API_KEY,
       temperature: 0.1,
@@ -151,34 +116,19 @@ rephrase the follow up question to be a standalone question.`;
     }),
     new StringOutputParser(),
   ]);
-  const ANSWER_CHAIN_SYSTEM_TEMPLATE = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement.
-  Si l'utilisateur vous salue ou bien le context contenient un mot (comme "bonjour", "hello", etc.), répondez avec ce message "Bonjour! Je suis l'assistant virtuel de l'Université Internationale de Rabat. Comment puis-je vous aider aujourd'hui ? Avez-vous des questions sur nos programmes, les admissions ou peut-être cherchez-vous des informations générales sur l'université ?".
-  Si vous ne trouvez pas la réponse dans le contexte, dites 'Je ne sais pas'.
-
-<context>
-{context}
-</context>`;
-
-  const answerGenerationChainPrompt = ChatPromptTemplate.fromMessages([
-    ["system", ANSWER_CHAIN_SYSTEM_TEMPLATE],
-    new MessagesPlaceholder("history"),
-    [
-      "human",
-      "Now, answer this question using the previous context and chat history:\n{standalone_question}",
-    ],
-  ]);
-
-  console.log(rephraseQuestionChain);
 
   const conversationalRetrievalChain = RunnableSequence.from([
     RunnablePassthrough.assign({
       standalone_question: rephraseQuestionChain,
     }),
-
     RunnablePassthrough.assign({
       context: documentRetrievalChain,
     }),
-    answerGenerationChainPrompt,
+    ChatPromptTemplate.fromMessages([
+      ["system", ANSWER_TEMPLATE],
+      new MessagesPlaceholder("history"),
+      ["human", "{standalone_question}"],
+    ]),
     llm,
     new StringOutputParser(),
   ]);
@@ -196,35 +146,26 @@ rephrase the follow up question to be a standalone question.`;
 // Express route to handle questions
 app.post("/uir-chat-bot", async (req: Request, res: Response) => {
   try {
-    // const { question } = req.body;
     const message = req.body;
 
     if (!message.Body) {
-      res
-        .status(400)
-        .json({ error: "Question is required in the request body" });
+      res.status(400).json({ error: "Question is required" });
     }
-
 
     const answer = await finalRetrievalChain.invoke(
       {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-09-11` },
+        configurable: { sessionId: `${message.From}-${Date.now()}` },
       }
     );
 
-
-
     await sendMessage(message.From, answer);
-    console.log(message.Body);
     res.json({ question: message.Body, answer });
   } catch (error) {
-    console.error("Error processing question:", error);
-    res
-      .status(500)
-      .json({ error: "An error occurred while processing your question" });
+    console.error("Error:", error);
+    res.status(500).json({ error: "An error occurred" });
   }
 });
 
@@ -232,7 +173,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 const startServer = async () => {
   await initializeChains();
   app.listen(port, () => {
-    console.log(`Server is running on http://localhost:${port}`);
+    console.log(`Server running on http://localhost:${port}`);
   });
 };
 
