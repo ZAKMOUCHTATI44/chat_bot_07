@@ -47,8 +47,11 @@ const initializeChains = async () => {
     "./data/Feuille de calcul sans titre - university_fees - Feuille de calcul sans titre - university_fees.csv.pdf"
   );
   const exampleCsvPath = "./data/data.csv";
+  const Classeur1 = "./data/Classeur1.xlsx";
 
   const loaderCsv = new CSVLoader(exampleCsvPath);
+
+  const loaderCsv1 = new CSVLoader(Classeur1);
 
   const docs = await loader.load();
   const docsCsv = await loaderCsv.load();
@@ -58,6 +61,7 @@ const initializeChains = async () => {
   const dataload = await data.load();
   const concoursLoad = await JSONLoaderConcours.load();
   const dataAllload = await dataAll.load();
+  const loaderCsvLoad = await loaderCsv1.load();
 
   const splitter = new RecursiveCharacterTextSplitter({
     chunkSize: 1000,
@@ -73,6 +77,9 @@ const initializeChains = async () => {
   const dataloadSplits = await splitter.splitDocuments(dataload);
   const dataAllloadSplits = await splitter.splitDocuments(dataAllload);
 
+  // loaderCsvLoad
+  const loaderCsvLoadSplits = await splitter.splitDocuments(loaderCsvLoad);
+
   await vectorStore.addDocuments(allSplits);
   await vectorStore.addDocuments(splitdocsCsv);
   await vectorStore.addDocuments(loaderTxtLoadSplit);
@@ -81,6 +88,7 @@ const initializeChains = async () => {
   await vectorStore.addDocuments(dataloadSplits);
   await vectorStore.addDocuments(concoursLoadSplits);
   await vectorStore.addDocuments(dataAllloadSplits);
+  await vectorStore.addDocuments(loaderCsvLoadSplits);
 
   console.log("************ LOADING DATA");
 
@@ -212,7 +220,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-10-07` },
+        configurable: { sessionId: `${message.From}-10-23` },
       }
     );
 
