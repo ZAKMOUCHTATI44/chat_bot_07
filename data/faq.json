@@ -4,6 +4,66 @@
     "answer": "Oui, l’Université Internationale de Rabat (UIR) est reconnue par l’État marocain depuis 2015, avec un renouvellement en 2020. Cette reconnaissance garantit que ses diplômes sont équivalents à ceux délivrés par les universités publiques marocaines."
   },
   {
+    "question": "Comment contacter le service « Standard général / Contact principal » ?",
+    "answer": "Téléphone : +212 5 30 10 30 00 Université Ibn Rushd+15Université Ibn Rushd+15Tuumz+15Lusha / Email : contact@uir.ac.ma"
+  },
+  {
+    "question": "tu peux contacter le service Fax via le Téléphone : +212 5 30 10 31 00 ?",
+    "answer": "Téléphone : +212 5 30 10 31 00"
+  },
+  {
+    "question": "Comment contacter le service « Service Scolarité » ?  via le Téléphone ",
+    "answer": "Téléphone : via annuaire en ligne"
+  },
+  {
+    "question": "Comment contacter le service « Relations Internationales (IRO) » ? voa Téléphone : +212 5 30 10 30 00 ou +212 5 30 10 30 24 / Email : ri@uir.ac.ma",
+    "answer": "Téléphone : +212 5 30 10 30 00 ou +212 5 30 10 30 24 / Email : ri@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Rabat Business School (RBS) – Admissions / Info » ?",
+    "answer": "Téléphone : +212 5 30 10 30 00 / Email : rbs.info@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Executive Education – Rabat » ?",
+    "answer": "Téléphone : +212 5 30 10 30 85 / Email : executive.education@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Executive Education – Casablanca » ?",
+    "answer": "Téléphone : +212 5 29 01 47 83 / Email : executive.education@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « École Supérieure d’Architecture (ESAR) » ?",
+    "answer": "Téléphone : +212 5 30 10 30 07 / Email : hajar.chahine@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Alumni – Rabat Business School » ?",
+    "answer": "Téléphone : +212 6 63 08 49 88 (Z. Mdarhri) / Email : zineb.mdarhri@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Relations Entreprises / Stages » ?",
+    "answer": "Téléphone : +212 5 30 11 20 83 (A. Manar) / Email : anouar.manar@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Relations Entreprises / Executive Corporate » ?",
+    "answer": "Téléphone : +212 5 30 11 20 39 (S. Belhajjame) / Email : sara.belhajjame@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Echanges / Mobilité étudiante (IRO coordonnateurs) » ?",
+    "answer": "Téléphone : +212 5 30 10 41 57 (B. Boum) / Email : balkis.boum@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service «  » ?",
+    "answer": "Téléphone : +212 5 30 10 30 92 (I. Sutto) / Email : ilenia.sutto@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service «  » ?",
+    "answer": "Téléphone : +212 5 30 11 20 24 (M. El Alaoui) / Email : meryem.elalaoui@uir.ac.ma"
+  },
+  {
+    "question": "Comment contacter le service « Hébergement / Logement » ?",
+    "answer": "Téléphone : +212 5 30 11 20 65 / +212 5 30 11 20 66 / Email : hebergementuir@uir.ac.ma"
+  },
+  {
     "question": "Les diplômes de l'UIR sont-ils équivalents aux diplômes nationaux ?",
     "answer": "Oui. Les diplômes de l’UIR sont équivalents aux diplômes nationaux, car l’université est reconnue par l’État marocain depuis 2015, avec un renouvellement en 2020."
   },
@@ -395,65 +455,5 @@
   {
     "question": "Y a-t-il des concours en septembre ?",
     "answer": "Oui, le 03 septembre ont lieu les oraux pour toutes les filières :<br>- Sciences Po<br>- Psychologie<br>- Droit<br>- Économie<br>- Communication & Médias"
-  },
-  {
-    "question": "Comment contacter le service « Standard général / Contact principal » ?",
-    "answer": "Téléphone : +212 5 30 10 30 00 Université Ibn Rushd+15Université Ibn Rushd+15Tuumz+15Lusha / Email : contact@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Fax » ?",
-    "answer": "Téléphone : +212 5 30 10 31 00"
-  },
-  {
-    "question": "Comment contacter le service « Service Scolarité » ?",
-    "answer": "Téléphone : via annuaire en ligne"
-  },
-  {
-    "question": "Comment contacter le service « Relations Internationales (IRO) » ?",
-    "answer": "Téléphone : +212 5 30 10 30 00 ou +212 5 30 10 30 24 / Email : ri@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Rabat Business School (RBS) – Admissions / Info » ?",
-    "answer": "Téléphone : +212 5 30 10 30 00 / Email : rbs.info@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Executive Education – Rabat » ?",
-    "answer": "Téléphone : +212 5 30 10 30 85 / Email : executive.education@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Executive Education – Casablanca » ?",
-    "answer": "Téléphone : +212 5 29 01 47 83 / Email : executive.education@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « École Supérieure d’Architecture (ESAR) » ?",
-    "answer": "Téléphone : +212 5 30 10 30 07 / Email : hajar.chahine@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Alumni – Rabat Business School » ?",
-    "answer": "Téléphone : +212 6 63 08 49 88 (Z. Mdarhri) / Email : zineb.mdarhri@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Relations Entreprises / Stages » ?",
-    "answer": "Téléphone : +212 5 30 11 20 83 (A. Manar) / Email : anouar.manar@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Relations Entreprises / Executive Corporate » ?",
-    "answer": "Téléphone : +212 5 30 11 20 39 (S. Belhajjame) / Email : sara.belhajjame@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Echanges / Mobilité étudiante (IRO coordonnateurs) » ?",
-    "answer": "Téléphone : +212 5 30 10 41 57 (B. Boum) / Email : balkis.boum@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service «  » ?",
-    "answer": "Téléphone : +212 5 30 10 30 92 (I. Sutto) / Email : ilenia.sutto@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service «  » ?",
-    "answer": "Téléphone : +212 5 30 11 20 24 (M. El Alaoui) / Email : meryem.elalaoui@uir.ac.ma"
-  },
-  {
-    "question": "Comment contacter le service « Hébergement / Logement » ?",
-    "answer": "Téléphone : +212 5 30 11 20 65 / +212 5 30 11 20 66 / Email : hebergementuir@uir.ac.ma"
   }
 ]

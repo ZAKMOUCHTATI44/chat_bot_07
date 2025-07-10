@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { vectorStore } from "./src/vector";
+// import { vectorStore } from "./src/vector";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 import {
@@ -23,6 +23,7 @@ import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
 import { sendMessage } from "./src/message";
+import { initVectorStore } from "./src/vector";
 const app = express();
 const port = process.env.PORT || 7001;
 
@@ -33,6 +34,8 @@ app.use(bodyParser.json());
 
 // Initialize the vector store and chains
 let finalRetrievalChain: any;
+
+let vectorStore: any;
 
 const initializeChains = async () => {
   const loader = new JSONLoader("./data/faq.json");
@@ -64,9 +67,11 @@ const initializeChains = async () => {
   const loaderCsvLoad = await loaderCsv1.load();
 
   const splitter = new RecursiveCharacterTextSplitter({
-    chunkSize: 10,
-    chunkOverlap: 1,
+    chunkSize: 1000,
+    chunkOverlap: 200,
   });
+
+  console.log("************ START ");
 
   const allSplits = await splitter.splitDocuments(docs);
   const splitdocsCsv = await splitter.splitDocuments(docsCsv);
@@ -80,15 +85,15 @@ const initializeChains = async () => {
   // loaderCsvLoad
   const loaderCsvLoadSplits = await splitter.splitDocuments(loaderCsvLoad);
 
-  await vectorStore.addDocuments(allSplits);
-  await vectorStore.addDocuments(splitdocsCsv);
-  await vectorStore.addDocuments(loaderTxtLoadSplit);
-  await vectorStore.addDocuments(loaderCatalogueTxt);
+  // await vectorStore.addDocuments(allSplits);
+  // await vectorStore.addDocuments(splitdocsCsv);
+  // await vectorStore.addDocuments(loaderTxtLoadSplit);
+  // await vectorStore.addDocuments(loaderCatalogueTxt);
   // await vectorStore.addDocuments(pdfloadSplits);
   // await vectorStore.addDocuments(dataloadSplits);
   // await vectorStore.addDocuments(concoursLoadSplits);
   // await vectorStore.addDocuments(dataAllloadSplits);
-  await vectorStore.addDocuments(loaderCsvLoadSplits);
+  // await vectorStore.addDocuments(loaderCsvLoadSplits);
 
   console.log("************ LOADING DATA");
 
@@ -103,7 +108,7 @@ const initializeChains = async () => {
   const documentRetrievalChain = RunnableSequence.from([
     (input) => input.standalone_question,
     retriever,
-    convertDocsToString,
+    // convertDocsToString,
   ]);
 
   const TEMPLATE_STRING = `
@@ -207,6 +212,20 @@ rephrase the follow up question to be a standalone question.`;
   });
 };
 
+app.post("/test-retrieval", async (req: Request, res: Response) => {
+  try {
+    const { question } = req.body;
+    const docs = await vectorStore.similaritySearch(question, 5);
+    res.json({
+      documents: docs.map((d: any) => d.pageContent),
+      count: docs.length,
+    });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Test failed" });
+  }
+});
+
 // Express route to handle questions
 app.post("/uir-chat-bot", async (req: Request, res: Response) => {
   try {
@@ -224,19 +243,15 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}` },
+        configurable: { sessionId: `${message.From}-jbojbojbaojdb` },
       }
     );
 
     await sendMessage(message.From, answer);
-    const newResposne = await vectorStore.similaritySearch(message.Body)
+    // const newResposne = await vectorStore.similaritySearch(message.Body);
 
     console.log(message.Body);
     console.log("************************");
-    console.log(newResposne);
-
-
-
 
     res.json({ question: message.Body, answer });
   } catch (error) {
@@ -249,6 +264,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 
 // Start the server
 const startServer = async () => {
+  vectorStore = await initVectorStore();
   await initializeChains();
   app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);

@@ -5,14 +5,14 @@ import { pull } from "langchain/hub";
 import { Annotation, StateGraph } from "@langchain/langgraph";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { llm } from "./src/openai";
-import { retriever, vectorStore } from "./src/vector";
+import { initVectorStore } from "./src/vector";
 import cors from "cors";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import * as parse from "pdf-parse";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 7001;
 
 // Middleware
 app.use(cors());
@@ -20,31 +20,34 @@ app.use(express.json());
 
 // Initialize FAQ data and vector store
 let faqGraph: any;
+let  vectorStore: any
 
 async function initializeFAQSystem() {
   // Load FAQ data from JSON file
 
-  const data = new JSONLoader("./data/data.json");
-  const loader = new JSONLoader("./data/data.json");
+  vectorStore = await initVectorStore();
+
+  const data = new JSONLoader("./data/faq.json" , ["/question" , "/answer"]);
+  // const loader = new JSONLoader("./data/data.json");
   const JSONLoaderConcours = new JSONLoader("./data/concours.json");
   const pdf = new PDFLoader("./data/Catalogue.pdf");
 
-  const docs = await loader.load();
+  // const docs = await loader.load();
   const pdfload = await pdf.load();
   const dataload = await data.load();
   const concoursLoad = await JSONLoaderConcours.load();
   // console.log("Loaded  documents:", pdfload.length);
-  // const splitter = new RecursiveCharacterTextSplitter({
-  //   chunkSize: 1000,
-  //   chunkOverlap: 200,
-  // });
-  // const allSplits = await splitter.splitDocuments(docs);
+  const splitter = new RecursiveCharacterTextSplitter({
+    chunkSize: 1000,
+    chunkOverlap: 200,
+  });
+  const allSplits = await splitter.splitDocuments(dataload);
 
   // Index chunks
-  await vectorStore.addDocuments(docs);
-  await vectorStore.addDocuments(pdfload);
-  await vectorStore.addDocuments(concoursLoad);
   await vectorStore.addDocuments(dataload);
+  // await vectorStore.addDocuments(pdfload);
+  // await vectorStore.addDocuments(concoursLoad);
+  // await vectorStore.addDocuments(dataload);
 
   // Define prompt for question-answering
   const template = `Vous êtes l'assistant de l'Université Internationale de Rabat. Répondez poliment et professionnellement. 
@@ -100,7 +103,7 @@ app.post("/api/ask", async (req, res) => {
     const { question } = req.body;
 
     if (!question) {
-      return res.status(400).json({ error: "Question is required" });
+     res.status(400).json({ error: "Question is required" });
     }
 
     const inputsQA = { question };
