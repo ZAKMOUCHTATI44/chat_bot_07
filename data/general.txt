@@ -1,494 +1,2163 @@
-Q : Salut ! Quelles licences (Bachelor) vous proposez après le bac ?
-R : L’UIR offre une gamme complète de parcours post-bac :
-
-Collège des Sciences Sociales : Sciences Politiques (Science Po Rabat), Psychologie, Licence en Droit, Licence Économie, Communication & Médias 
-
-Collège Ingénierie & Architecture : Génie Civil, Génie Biomédical, Informatique & Numérique (ESIN), Génie de l’Énergie (ECINE), Aéronautique & Automotive (SAAE), Architecture (ESAR) 
-
-Collège des Sciences de la Santé : Biotechnologie & Sciences de la Santé, Diététique & Nutrition, Licence Technicien en Imagerie Médicale, Licence Technicien de Laboratoire, Infirmier Polyvalent, Infirmier en Anesthésie-Réanimation, Médecine (6 ans), Médecine Dentaire (6 ans) 
-
-Rabat Business School : International Program in Management (IPM) (Standard ou English Track) et International Triple Bachelor 
-
-Q : Comment se passe la prépa intégrée IPM à l’UIR ?
-R : Le Bachelor IPM dure 3 ans :
-
-1ʳᵉ année (30–100 % anglais) : Principles of Economics, Calculus for Business, Statistics, Geopolitics, Marketing, Accounting, Management, langues (TOEIC, espagnol)
-
-2ᵉ année : Functional Internship (8 semaines), cours avancés (Data Analytics, SAP, etc.)
-
-3ᵉ année : Junior Specialist Internship (12 semaines) + Bachelor Dissertation
-Les admissions se font par écrit (raisonnement logique & numeric, culture générale) et entretien de motivation. Les frais sont de 65 000 Dhs/an + 10 000 Dhs d’inscription 
-.
-
-Q : C’est quoi les options en licence Sciences Sociales, Droit ou Communication ?
-R :
-
-Sciences Politiques : 3 parcours (Relations Internationales, Économie & Développement, Cultures & Sociétés) avec semestre de mobilité possible 
-.
-
-Droit : modules en droit civil, commercial, pénal, fiscal, international, OHADA, etc., avec stages en entreprise 
-.
-
-Communication & Médias : culture générale, compétences pratiques (photo, vidéo, son, graphisme, web) et ateliers média, suivi d’un Master en co-diplomation avec IHECS (Belgique) 
-.
-
-Q : Je veux en savoir plus sur la licence Génie Civil (cours, projets, stages…)
-R : Le parcours se découpe en 2 ans de préparatoire intégré (maths, physique, chimie, mécanique, électricité, informatique, langues) puis 3 ans de cycle ingénieur (résistance des matériaux, mécanique des fluides, BIM, géotechnique, gestion de projet…). Stages : 4 semaines ouvrier (fin CPI), 4 semaines technicien (5ᵉ sem.), PFE + stage d’ingénieur de 5 mois 
-.
-
-Q : Est-ce que vous avez un parcours 100 % en ligne ou en alternance pour les post-bac ?
-R : Non, les programmes post-bac sont 100 % présentiels sur campus. 
-
-Sur les bourses post-bac
-Q : Vous proposez quelles bourses pour les nouveaux bacheliers ?
-R : L’UIR offre une bourse sociale (réduction partielle ou exonération totale des frais de scolarité et d’hébergement) et un prêt étudiant (jusqu’à 50 000 Dhs/an avec différé possible) 
-.
-
-Q : Comment je candidate à la bourse post-bac ?
-R : Après avoir créé votre compte sur www.uir.ac.ma, allez dans Candidature bacheliers, renseignez vos infos, choisissez votre programme puis cochez l’option « Financement » pour ajouter une demande de bourse. 
-
-Q : Quels justificatifs je dois fournir pour une bourse ?
-R : Vous constituez un dossier en ligne démontrant votre incapacité de financement par vos tuteurs (relevés de notes, copie du baccalauréat, pièce d’identité, justificatifs de revenus, lettre de motivation, etc.) 
-
-Q : La date limite pour la demande de bourse post-bac, c’est quand ?
-R : La demande de bourse se fait en même temps que votre inscription aux concours post-bac : pour la session de juillet 2025, les épreuves écrites ont lieu le 21 juillet et l’oral le 24 juillet, votre dossier bourse doit être finalisé avant votre concours choisi 
-
-Sur les frais de scolarité post-bac
-Q : C’est combien les frais pour une licence Bachelor à l’UIR ?
-R :
-
-Sciences Sociales & Management (Droit, Économie, Sci. Pol., Psychologie, Com. & Médias) : 62 000 Dhs/an + 10 000 Dhs inscription 
-
-Ingénierie (GC, ESIN, ECINE, SAAE, Génie Biomédical) : 66 000 Dhs/an (72 000 Dhs pour Génie Biomédical) + 10 000 Dhs inscription
-
-Architecture (ESAR) : 85 000 Dhs/an + 10 000 Dhs inscription 
-
-Santé (Biotechnologie, Diététique, Imagerie, LIP, LIAR) : 26 000–62 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Je peux régler mes frais en plusieurs échéances ?
-R : Oui, le paiement peut se faire automatiquement en deux tranches sans frais supplémentaires 
-faq.uir.ac.ma
-
-Q : Quels frais annexes prévoir (assurance, labo, bibliothèque…) ?
-R : Les frais de scolarité incluent l’accès aux laboratoires, à la bibliothèque, aux installations sportives, etc. Aucun coût additionnel obligatoire n’est facturé en dehors des frais d’inscription et de scolarité 
-
-
-Q : Y a-t-il une réduction si plusieurs frères/sœurs s’inscrivent ?
-R : Aucune réduction fratrie n’est mentionnée dans le catalogue officiel des formations post-bac de l’UIR 
-
-Q : Comment obtenir ma facture officielle après le paiement ?
-R : Connectez-vous à votre espace e-services (https://eservices.uir.ac.ma) avec vos identifiants UIR et téléchargez votre facture ou attestation de paiement dans « Paiements / Factures »
-
-: Quels programmes post-bac propose l’UIR (licences et bachelors) ?
-R :
-
-Rabat Business School : International Triple Bachelor, International Program in Management
-
-Collège des Sciences Sociales : Sciences Po Rabat, Sciences Politiques, Psychologie, Droit, Économie, Communication & Médias
-
-Collège Ingénierie & Architecture : Génie Civil, Génie Biomédical, Informatique & Numérique, Énergies, Aéronautique & Automotive, Architecture
-
-Collège des Sciences de la Santé : Médecine, Médecine Dentaire, Biotechnologie & Sciences de la Santé, Diététique & Nutrition, Imagerie Médicale, Laboratoire, Infirmier Polyvalent, Infirmier Anesthésie-Réa 
-
-Q : Quelles licences sont offertes par le Collège des Sciences de la Santé (biotechnologie, diététique, médecine dentaire…) ?
-R :
-
-Licence en Biotechnologie & Sciences de la Santé
-
-Licence en Diététique & Nutrition
-
-Licence Technicien en Imagerie Médicale
-
-Licence Technicien de Laboratoire
-
-Infirmier Polyvalent (LIP-Pro)
-
-Infirmier en Anesthésie-Réanimation (LPIAR)
-
-Médecine Dentaire (6 ans)
-
-Médecine (6 ans) 
-
-Q : Comment intégrer le cycle Ingénieur en Génie Civil : quels baccalauréats sont acceptés et quelles épreuves ?
-R :
-
-Bac acceptés : Mathématiques A, Mathématiques B, Physiques, SVT, Sciences & Technologies Mécanique, Sciences & Technologies Électrique
-
-Épreuves :
-
-Écrit : Mathématiques & Physique
-
-Oral : Entretien individuel devant jury
-
-Frais : 66 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Quelles sont les modalités d’accès et les frais pour l’International Program in Management (IPM) ?
-R :
-
-Candidats éligibles : Tous types de baccalauréat
-
-Épreuves :
-
-Écrit : raisonnement logique & numérique, ouverture culturelle
-
-Oral : entretien de motivation
-
-Frais : 65 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Quelles sont les conditions d’admission et les frais pour l’International Triple Bachelor ?
-R :
-
-Conditions :
-
-Baccalauréat avec mention “très bien” (high honours)
-
-Concours en deux étapes (written : logique & numérique, ouverture culturelle, mathématiques ; oral : entretien)
-
-Frais :
-
-RBS : 120 000 Dhs/an
-
-IÉSEG : 11 000 €
-
-HEC Montréal : selon nationalité (voir site HEC Montréal) 
-
-Q : Quelles sont les étapes pour candidater sur la plateforme « Candidature bacheliers » ?
-R :
-
-Accédez à www.uir.ac.ma
-
-Cliquez sur Candidature
-
-Sélectionnez Candidature bacheliers
-
-Renseignez vos informations et choisissez votre/vos programme(s)
-
-Rechargez votre compte candidat et réglez les frais de concours (voir question ci- dessous)
-
-Téléchargez votre convocation sur votre espace candidat ou dans votre boîte e-mail 
-
-Q : Quel est le montant des frais de concours et comment régler ?
-R :
-
-750 Dhs pour 1 ou 2 sessions
-
-1 500 Dhs pour un nombre illimité de sessions
-
-Paiement : en espèces à l’UIR ou par virement/versement bancaire (RIB disponible sur votre compte) 
-
-Q : Comment et où télécharger ma convocation une fois inscrit ?
-R :
-Téléchargez votre convocation directement depuis votre espace candidat sur le site ou consultez votre boîte e-mail (mail envoyé après paiement). 
-
-Q : Quelles sont les conditions pour obtenir la bourse sociale ?
-R :
-
-Obtention du baccalauréat l’année de l’inscription à l’UIR
-
-Constitution d’un dossier prouvant l’incapacité de financement par les tuteurs légaux
-
-(Note générale au bac ≥ 12/20) 
-
-Q : Quel montant maximum peut atteindre le prêt étudiant et auprès de quelle banque ?
-R :
-Prêt jusqu’à 50 000 Dhs/an accordé par la Banque Populaire, avec différé possible jusqu’à 6 ans.
-
-Q : Quels programmes post-bac propose la Rabat Business School ?
-R : International Program in Management et International Triple Bachelor 
-
-Q : Qu’est-ce que l’International Program in Management (IPM) ?
-R : C’est un Bachelor de 3 ans, en Standard Track (33 % français/67 % anglais) ou English Track (100 % anglais), avec épreuve écrite (raisonnement logique & numérique, ouverture culturelle) et entretien oral, pour 65 000 Dhs/an + 10 000 Dhs d’inscription 
-
-Q : Quels parcours existe-t-il dans l’IPM ?
-R : Standard Track (33 % français/67 % anglais) et English Track (100 % anglais) 
-
-Q : Combien dure le programme IPM ?
-R : 3 ans 
-
-Q : Quels modules sont enseignés en 1ʳᵉ année de l’IPM ?
-R : Principles of Economics, Computer Tools for Managers, Calculus for Business, Statistics, Geopolitics, Principles of Marketing, Principles of Accounting, Principles of Management, Principles of Human Resources Management, Civic Engagement & Reciprocity Project, Practical Academic Skills, préparation au TOEIC, espagnol… 
-
-Q : Quels stages propose l’IPM ?
-R : Immersion internship (6 semaines), operational internship (8 semaines), Junior Specialist internship (12 semaines) + Bachelor dissertation 
-
-Q : Quelles spécialisations majeures offre l’IPM en 3ᵉ année ?
-R : Finance & Trading, Accounting & Audit, Marketing & Branding, Advertising & Marketing Communication, Human Resource Management, Supply Chain Management, Entrepreneurship & Innovation 
-
-Q : Quelles mineures propose l’IPM ?
-R : Finance, Supply Chain Management, Marketing 
-
-Q : Qui peut postuler à l’IPM ?
-R : Tous types de baccalauréat 
-
-Q : Quelles épreuves pour intégrer l’IPM ?
-R : Épreuve écrite (raisonnement logique & numérique, ouverture culturelle) + entretien oral de motivation 
-
-Q : Quels sont les frais pour l’IPM ?
-R : 65 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Qu’est-ce que l’International Triple Bachelor ?
-R : Programme de 4 ans en partenariat avec RBS (2 ans), IÉSEG (1 an) et HEC Montréal (1 an) 
-
-Q : Quelles conditions pour le Triple Bachelor ?
-R : Mention “très bien” au bac, examen écrit (logique, numérique, ouverture culturelle, mathématiques) + entretien oral 
-
-Q : Quels frais pour le Triple Bachelor ?
-R : RBS : 120 000 Dhs/an – IÉSEG : 11 000 € – HEC Montréal : selon nationalité 
-
-Q : Quelle est la durée du Triple Bachelor ?
-R : 4 ans (2 ans RBS, 1 an IÉSEG, 1 an HEC Montréal) 
-
-Q : Quels parcours propose le Collège des Sciences Sociales ?
-R : Sciences Po Rabat, Sciences Politiques, Psychologie, Droit, Économie, Communication & Médias 
-
-Q : Quels parcours en licence Sciences Politiques ?
-R : Relations Internationales, Économie & Développement, Cultures & Sociétés (Monde arabe & africain) 
-
-Q : Programme de la 1ʳᵉ année Sciences Politiques ?
-R : Fondamentaux en relations internationales, sociologie, science politique, droit, économie, géopolitique, anthropologie + langues de l’ONU, service civique & projet professionnel 
-
-Q : Programme de la 2ᵉ année Sciences Politiques ?
-R : Spécialisation & enseignements fondamentaux selon l’option choisie 
-
-Q : Programme de la 3ᵉ année Sciences Politiques ?
-R : Finalisation du 1er cycle, mémoire de recherche, projet professionnel, orientation Master 
-
-Q : Y a-t-il de la mobilité en Sciences Politiques ?
-R : Oui, un semestre à l’international parmi 52 partenaires 
-
-Q : Qui peut postuler en Sciences Politiques ?
-R : Tous bacs & équivalents 
-
-Q : Modalités d’accès Sciences Politiques ?
-R : Dossier (bulletins, lettre de motivation, projet d’études) + entretien oral individuel 
-
-Q : Frais licence Sciences Politiques ?
-R : 62 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Programmes du Collège Ingénierie & Architecture ?
-R : Génie Civil, Génie Biomédical, Informatique & Numérique, Énergies, Aéronautique & Automotive, Architecture 
-
-Q : Structure du cursus Génie Civil ?
-R : 2 ans de cycle préparatoire intégré + 3 ans de cycle ingénieur 
-
-Q : Bacs éligibles Génie Civil ?
-R : Math A & B, Physiques, SVT, Sciences & Tech. Mécanique, Électrique 
-
-Q : Épreuves Génie Civil ?
-R : Écrit : Mathématiques & Physique + oral individuel 
-
-Q : Frais Génie Civil ?
-R : 66 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Modules CPI Génie Civil ?
-R : Maths, Physique, Chimie, Mécanique, Électricité, Thermodynamique & transfert de chaleur, Info, Électronique, Automatique, Français, Communication, Anglais, Éco. 
-
-Q : Modules CI Génie Civil ?
-R : Math. ingénieur, Résistance Matériaux, Mécanique Fluides, Architecture/Urbanisme, Topographie, Électricité de Bâtiment, Machines Électriques, Recherche Opérationnelle, Géotechnique, Matériaux, Qualité & Analyse Eaux, Procédés, Béton Armé, Hydrologie, Hydraulique Souterraine, Routes, Structures, Info, BIM, Assainissement/AEP, Génie Environnement, Gestion de Projet 
-
-Q : Stages Génie Civil ?
-R : Ouvrier (4 sem.), technicien (4 sem.), projet de fin d’études 
-
-Q : Diplôme Génie Civil ?
-R : Diplôme reconnu équivalent aux diplômes nationaux 
-
-Q : Programmes du Collège des Sciences de la Santé ?
-R : Médecine, Médecine Dentaire, Biotechnologie & Sciences de la Santé, Diététique & Nutrition, Imagerie Médicale, Laboratoire, Infirmier Polyvalent, Infirmier Anesthésie-Réa 
-
-Q : Durée du cursus Médecine ?
-R : 6 ans (12 semestres préclinique & clinique) 
-
-Q : Missions de la Faculté de Médecine ?
-R : Former selon standards int’l, proposer formation continue, développer recherche biomédicale, fournir expertise 
-
-Q : Diplôme Médecine ?
-R : Docteur en Médecine, équivalent national 
-
-Q : Bacs éligibles Santé ?
-R : Selon programme, dossier étudié individuellement 
-
-Q : Bacs éligibles Génie Biomédical ?
-R : Sci Math A & B, SVT, Physiques, Sci & Tech Électr./Mécan. 
-
-Q : Sélection Génie Biomédical ?
-R : Dossier (notes maths/physique), écrit en sciences fonda, entretien oral 
-
-Q : Frais Génie Biomédical ?
-R : 72 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Modules 1ʳᵉ année Génie Biomédical ?
-R : Math 1, Fondements Informatique, Électricité, Mécanique du point, Bio cellulaire/moléculaire, Langues 1, Méthodo universitaire 
-
-Q : Modules 2ᵉ année Génie Biomédical ?
-R : Électromagnétisme, Math 2, Optique, Physiologie humaine, Biochimie, Langues 2, Culture digitale 
-
-Q : Modules 3ᵉ année Génie Biomédical ?
-R : Math 3, Mécanique du solide, Propriétés matériaux, Chimie, Microbiologie, Langues 3, Arts & culture 
-
-Q : Modules 4ᵉ année Génie Biomédical ?
-R : Analyse numérique, Probabilités & Stats, Traitement du signal, Algo C, Électronique analogique & numérique, Langues 4, Power Skills 
-
-Q : Modules 5ᵉ année Génie Biomédical ?
-R : Électronique numérique, Physiologie humaine, Imagerie médicale 1, Prothèses & biomécanique, T° biomédicales, Power Skills, Langues 
-
-Q : Spécialisation Génie Biomédical en 5ᵉ année ?
-R : Projet de fin d’études en entreprise/labo 
-
-Q : Programmes ECINE (Énergie) ?
-R : CPI 2 ans + CI 3 ans en Ingénierie de l’Énergie 
-
-Q : Bacs éligibles Énergie ?
-R : Sci Math A & B, PC & SVT, Sci & Tech, français/étranger équivalent 
-
-Q : Épreuves ECINE ?
-R : Écrit : Math & Physique + oral motivation & personnalité 
-
-Q : Frais Énergie ?
-R : 66 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Modules CPI Énergie ?
-R : Maths, Physique, Chimie, Mécanique, Résistance Matériaux, Mécanique Fluides, Ingénierie Mécanique, Info, Électr., Automatique, Français, Comm., Anglais, Éco., stage ouvrier 
-
-Q : Modules CI Énergie ?
-R : Math ingénieur, Management & IA, Info, Modélisation, Électronique, Automatique, Mécanique solide & fluides, Hydraulique, Thermique, Télédétection, Marchés, Anglais, Éco., stage technicien, projet R&D, stage ingénieur (5 mois) 
-
-Q : Options internationales Énergie ?
-R : Double diplôme EEIGM & ENSEM Nancy, semestre 8 en France, stage fin d’études à l’international 
-
-Q : Programmes ESAR (Architecture) ?
-R : Diplôme d’architecte en partenariat ENSA Marne-la-Vallée & Nancy 
-
-Q : Bacs éligibles Architecture ?
-R : Éco., Math A & B, PC & SVT, Arts Appliqués, français/étranger équivalent 
-
-Q : Épreuves Architecture ?
-R : Écrit : Math & Physique + oral motivation & personnalité 
-
-Q : Frais Architecture ?
-R : 66 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Programmes ESIN (Informatique) ?
-R : CPI + CI en Informatique (spécialités Cloud/IA/Sécurité/Big Data/Génie Logiciel) 
-
-Q : Bacs éligibles ESIN ?
-R : Math A & B, PC & SVT, Sci & Tech, français/étranger équivalent 
-
-Q : Modules CPI ESIN ?
-R : Analyse, Structures fondamentales, Électricité, Fondements info, Algo & Prog, Langues, Méthodo, Algèbre, Électromagnétisme, Culture digitale 
-
-Q : Spécialités CI ESIN ?
-R : Big Data & IA, Génie Logiciel, Cybersécurité, Cloud Computing & Virtualization 
-
-Q : Modules 2ᵉ année CI ESIN ?
-R : Advanced Web Dev, Distributed Algorithms, Design Patterns, IoT, ML, NoSQL, Cloud, Data Security, SDN, Parallel Programming, Blockchain, etc. 
-
-Q : Modules 3ᵉ année CI ESIN ?
-R : Advanced Databases, Routing & Switching, OOP & UML, Advanced Algo, Maths ing., Foreign Languages, Data Analytics, Mobile & Web Dev, Network Admin, BI & Datawarehousing, Cybersecurity… 
-
-Q : Modules 1ʳᵉ année CI ESIN ?
-R : Algèbre, Analyse numérique, Électronique, BD, Réseaux, Langues, Art & Culture, Stats, Signaux, OS, Algo, Web, Dev perso & responsabilité pro 
-
-Q : Quelles solutions de financement propose l’UIR ?
-R : Bourse sociale & prêt étudiant 
-
-Q : Critères bourse sociale ?
-R : Bac obtenu l’année de l’inscription + dossier prouvant incapacité financement par tuteurs 
-
-Q : Part de boursiers ?
-R : Près de 30 % 
-
-Q : Montant max prêt étudiant ?
-R : Jusqu’à 50 000 Dhs/an 
-
-Q : Différé prêt étudiant ?
-R : Jusqu’à 6 ans 
-
-Q : Comment candidater post-bac ?
-R : www.uir.ac.ma > Candidature > Candidature bacheliers: remplir, recharger compte, régler frais, télécharger convocation 
-
-Q : Frais concours post-bac ?
-R : 750 Dhs (1–2 sessions), 1 500 Dhs (illimité) 
-
-Q : Modalités paiement concours ?
-R : Espèces à l’UIR ou virement (RIB dispo) 
-
-Q : Où télécharger la convocation ?
-R : Espace candidat ou e-mail suite paiement 
-
-Q : Combien de points de restauration ?
-R : 6 dont 1 restaurant universitaire 
-
-Q : Combien de laveries ?
-R : 2 (UIR Laverie & Lavomatic) 
-
-Q : Centres de reprographie ?
-R : 1 centre 
-
-Q : Centre de santé ?
-R : MedHelp, 24 h/24, 7 j/7 
-
-Q : Cellule d’écoute ?
-R : Psychologues sur rendez-vous 
-
-Q : Navettes campus ?
-R : > 10 lignes Rabat-Salé-Témara 
-
-Q : Taille de la bibliothèque ?
-R : > 80 000 ouvrages 
-
-Q : Nombre de résidences ?
-R : 8 
-
-Q : Tarif chambre single ?
-R : Dès 2 800 Dhs/mois 
-
-Q : Tarif chambre double ?
-R : Dès 2 000 Dhs/mois 
-
-Q : Semestre 1 licence Économie ?
-R : Intro droit, Macroéco I, Analyse maths II (algèbre), Comptabilité générale, Fisc, Langues (anglais/espagnol), Culture digitale & HN 
-
-Q : Semestre 2 licence Économie ?
-R : Micro éco II, Macro éco II, Éco dével., Intro sciences pol., Droit des affaires, Langues, Art & culture arabe 
-
-Q : Semestre 3 licence Économie ?
-R : Droit des affaires, Sciences pol., Éco dével., Micro II, Macro II, Langues, Art & culture 
-
-Q : Semestre 4 licence Économie?
-R : Éco mon. & fin. I, Échant. & est., Éco pol., Comptabilité nationale, Problèmes éco., Langues, Leadership & engagement civique 
-
-Q : Semestre 5 licence Économie ?
-R : Finances publiques & droit fiscal, Histoire pensée éco, Éco solidaire/sociale, Méthodo res., Analyse données, Langues, CMS 
-
-Q : Semestre 6 licence Économie ?
-R : Intro économétrie, Éco internationale, Fiscalité, Mémoire, Langues, Leadership & comm. 
-
-Q : Modalités d’accès licence Économie ?
-R : Tous bacs, dossiers (bulletins, lettre, projet), entretien oral 
-
-Q : Frais licence Économie ?
-R : 62 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Parcours Communication & Médias ?
-R : Licence 3 ans + Master 2 ans co-diplomation IHECS, cours théoriques + ateliers (photo, vidéo, son, graphisme, web) 
-
-Q : Partenaire Communication & Médias ?
-R : IHECS (Belgique) 
-
-Q : Modalités d’accès Communication & Médias ?
-R : Tous bacs & équivalents, oral individuel, 62 000 Dhs/an + 10 000 Dhs inscription 
-
-Q : Objectif Communication & Médias ?
-R : Former des pros de la com’ avec bagage théorique & pratique en réponse au marché 
-
-Q : Spécialisations Masters Communication & Médias ?
-R : Publicité, Relations Publiques, Journalisme (co-diplomation IHECS) 
-
-Q : Axes majeurs Communication & Médias ?
-R : Culture générale & fondamentaux sciences sociales; compétences disciplinaires; manipulation pratique des médias 
-
-Q : Programmes Techniques d’Imagerie Médicale ?
-R : Licence Techniques d’Imagerie Médicale (3 ans) couvrant santé publique, anatomie, physio, biologie, droit pro, Élec/Électromagnétisme, sémiologie, hygiène, sciences phys., stages, languages 
-
-Q : Modalités d’accès Techniques d’Imagerie Médicale ?
-R : Tous bacs, B1 français (psychologie), dossier (bulletins, lettre 2 p., projet 3 p.), oral devant jury, 62 000 Dhs/an + 10 000 Dhs inscription
+CATALOGUE
+DE FORMATIONS POST-BAC
+www.uir.ac.ma
+HOE
+• Rabat Business School
+• International Triple Bachelor
+• International Program in Management.
+• Faculté Internationale de Médecine de Rabat
+• Licence en Biotechnologie et sciences de la santé
+• Faculté Internationale de Médecine Dentaire
+• Ecole Supérieure des Sciences Paramédicales de Rabat
+• Infirmier Polyvalent LIP-Pro
+• Infirmier en Anesthésie Réanimation LPIAR
+• Licence Technicien en Imagerie Médicale
+• Licence Technicien de laboratoire
+• Licence en Diététique et Nutrition
+• Ecole Supérieure d’Ingénierie Biomédicale
+Génie Biomédicale
+NOTRE
+OFFRE DE
+FORMATION
+L’UIR propose des programmes
+a c a d é m i q u e s d e q u a l i t é ,
+dispensés par des enseignantschercheurs de renommée
+internationale et met à la
+disposition de ses étudiants
+des équipements de pointe afin
+de les préparer à des carrières
+répondant aux exigences
+actuelles et futures du marché
+du travail.
+• Sciences Po Rabat
+• Sciences politiques
+• Psychologie
+• Ecole de Droit
+• Droit
+• Économie
+• Communication & Médias
+• Ecole d’Architecture de Rabat
+• Ecole Supérieure d’Ingénierie de l’Énergie
+• School of Aerospace and
+Automotive Engineering
+• Ecole Supérieure d’Informatique et du Numérique
+• Génie Civil
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+Le cursus de Génie Civil à l’UIR propose une formation solide dans la conception, la construction
+et la gestion des infrastructures. Il associe théorie et pratique afin de préparer les ingénieurs à
+relever les défis techniques du secteur.
+Ce programme permet aux étudiants d’acquérir les compétences nécessaires pour concevoir,
+construire et entretenir des infrastructures comme des ponts, des routes, des bâtiments ou des
+barrages. La formation se déroule en deux étapes : un cycle préparatoire intégré de deux ans,
+suivi de trois ans de cycle ingénieur.
+REJOINDRE
+LE CYCLE INGÉNIEUR
+EN GÉNIE CIVIL
+• Bac Sci mathématiques A
+• Bac Sci mathématiques B
+• Bac Sci Physiques
+• Bac Sci de la vie et de la terre
+• Bac Sci et technologies mécanique
+• Bac Sci et technologies électrique
+• Épreuve écrite : Mathématiques et
+physique
+• Épreuve orale : Entretien oral individuel
+avec jury
+• 66 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+Au terme de ce parcours à la filière Génie Civil de l’Ecole
+Supérieure d’Ingénierie de l’Energie ECINE et en vertu,
+l’étudiant obtient un diplôme reconnu équivalent aux
+diplômes nationaux
+ORGANISATION DES ÉTUDES
+FILIÈRE GÉNIE CIVIL
+Cycle ingénieur (ci) 3 ans
+Mathématiques pour l’ingénieur, Résistance des
+Matériaux, Mécanique des Fluides, Architecture &
+Urbanisme, Topographie, Électricité de Bâtiment
+et Machines Électriques, recherche opérationnelle,
+Géologie de l’ingénieur et Géotechnique,
+Matériaux de Construction, Qualité et Analyse
+des Eaux, Procédés Généraux de Construction,
+Béton Armé, Hydrologie, Hydraulique Souterraine,
+Routes, Structures, Informatique, Modélisation
+BIM, Assainissement & AEP, Introduction au Génie
+de l’Environnement (EIE), analyse et Gestion de
+Projet.
+Stages (4 semaines), Projet de fin d’étude, etc.
+Cycle préparatoire intégré (cpi) 2ans
+Mathématiques, physique, chimie, mécanique,
+électricité, thermodynamique et transfert de
+chaleur mécanique des structures, technique
+de bâtiments, informatique, électronique,
+automatique, français, communication, anglais,
+science économique.
+1ÈR SEMESTRE
+Cycle préparatoire filière GC
+1ÈR SEMESTRE
+Filière GC
+2ÈME SEMESTRE
+Filière GC
+2ÈME SEMESTRE
+Cycle préparatoire filière GC
+3ÈME SEMESTRE
+Cycle préparatoire filière GC
+3ÈME SEMESTRE
+Cycle préparatoire filière GC
+5ÈME SEMESTRE
+Cycle préparatoire filière GC
+4ÈME SEMESTRE
+Cycle préparatoire filière GC
+4ÈME SEMESTRE
+Cycle préparatoire filière GC
+6ÈME SEMESTRE
+Cycle préparatoire filière GC
+1ÈRE AP
+1ÈRE GC
+2ÈME GC
+3ÈME GC
+2ÈME AP
+GÉNIE CIVIL BAC +5
+SCANNEZ POUR
+EN SAVOIR +
+En partenariat avec
+L’Ecole Supérieure de l’Ingénierie de l’Energie (ECINE) de l’UIR a pour mission d’accompagner le
+développement du secteur énergétique et des énergies renouvelables du Maroc et de répondre
+aux besoins pressants en ingénieurs hautement spécialisés et performants dans ce domaine.
+Unique en son genre au Maroc, ce cycle d’ingénieur intègre, sur un cursus de 5 années d’études et
+de façon complémentaire, les approches théoriques et expérimentales. Nos étudiants acquièrent
+une solide culture scientifique complétée par une formation généraliste (langues, management,
+etc.) qui leur confère un profil polyvalent et leur permet de maîtriser différents projets : l’étude, la
+conception, la réalisation et la gestion de systèmes énergétiques complexes.
+Au terme du parcours à l’Ecole Supérieure d’Ingénierie de l’Energie ECINE et en vertu de l’article 3 du
+décret n°2.16.244 du 22 juillet 2016, l’étudiant obtient un diplôme reconnu équivalent aux diplômes
+nationaux.
+REJOINDRE
+L’ÉCOLE SUPÉRIEURE
+D’INGÉNIERIE
+DE L’ENERGIE
+• Bac Sci Mathématiques : A et B
+• Bac Sci Expérimentales : PC et SVT
+• Bac Sciences et Technologies
+• Bac français équivalent
+• Bac étranger reconnu équivalent
+• Épreuve écrite : Mathématiques, Physique
+• Épreuve orale : Entretien de motivation et
+de personnalité
+• 66 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation ORGANISATION DES ÉTUDES
+1A CPI, semestre 1 et 2
+Enseignement de base
++ TP en sciences de l’ingénieur
+2A CPI, semestre 3 et 4
+Enseignement de base + TP en
+sciences de l’ingénieur + stage ouvrier
+3A CI, semestre 5 et 6
+Tronc commun en sciences de
+l’ingénieur + stage technicien
++ mini projet
+4A CI, semestre 7
+Energétique
+4A CI, semestre 8
+Energétique + Energie
+renouvelable + stage recherche
+5A CI, semestre 9
+Management et audit
+énergétique + projet de R&D
+5A CI, semestre 10
+Stage d’ingénieur (PFE)
+Concours d’accès
+en 2ème année
+Concours d’accès
+en 3ème année
+Possibilité de double diplôme
+à partir du semestre 7
+avec l’Ecole Européenne
+d’Ingénierie en Génie des
+Matériaux (EEIGM) et l’Ecole
+de l’Energie (ENSEM) à Nancy
+Possibilité d’effectuer le stage
+Ingénieur (projet fin d’études)
+partout dans le monde
+Possibilité de double
+diplôme à la FST de
+l’université de lorraine
+Possibilité d’effectuer le
+semestre 8 à l’ENSEM et la
+FST de l’université de Lorraine
+(France)
+Cycle préparatoire intégré
+(CPI) 2ANS
+Mathématiques, physique, chimie,
+mécanique générale, résistance des
+matériaux, mécanique des fluides,
+ingénierie mécanique, informatique,
+électronique, automatique, français,
+communication, anglais, science
+économique, Stage ouvrier (4
+semaines).
+Cycle ingénieur (CI) 3 ans
+Mathématiques pour l’ingénieur,
+insertion professionnelle,
+management et intelligence
+artificielles de l’énergie, informatique,
+modélisation, électronique,
+automatique, mécanique du solide et
+mécanique des fluides, hydraulique,
+ingénierie thermique, télédétection,
+marchés, anglais, science
+économique, stage technicien (4
+semaines), projet de R&D, Stage
+ingénieur (5 mois)
+INGÉNIERIE DE L’ÉNERGIE BAC +5
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+En partenariat avec
+L’Ecole Supérieure d’Informatique et du Numérique (ESIN) se veut une institution d’enseignement
+à la hauteur des ambitions de la jeunesse et des projets de développement initiés par notre pays tant
+au niveau national qu’international. Dans cet élan, nous nous fixons pour mission d’offrir aux étudiants
+une formation académique d’excellence, ainsi que de leur inculquer des valeurs morales et une culture
+d’apprentissage continu nécessaires au développement de leur carrière.
+L’ambition de notre école est de former des ingénieurs en informatique dans différentes spécialités,
+à savoir Cloud Computing et virtualisation, Cybersécurité, Big Data & intelligence Artificielle et Génie
+Logiciel, les doter de compétences transposables à tous les secteurs d’activité de l’entreprise et de
+l’industrie, et leur assurer une employabilité dès l’obtention de leur diplôme ou même avant.
+REJOINDRE
+L’ÉCOLE SUPÉRIEURE
+D’INFORMATIQUE ET DU
+NUMÉRIQUE (ESIN)
+• Bac Sci. Mathématiques : A et B
+• Bac Sci Expérimentales : PC et SVT
+• Bac Sciences et Technologies
+• Bac français équivalent
+• Baccalauréat étranger reconnu
+équivalent
+• Épreuve écrite : Mathématiques, Physique
+• Épreuve orale : Entretien de motivation et
+de personnalité
+• 66 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+Au terme du parcours à l’Ecole Supérieure d’Informatique et du Numérique ESIN et en vertu de l’article 3 du décret
+n°2.16.244 du 22 juillet 2016, l’étudiant obtient un diplôme reconnu équivalent aux diplômes nationaux.
+ORGANISATION DES ÉTUDES
+INFORMATIQUE
+Analyse, Structures fondamentales, Electricité, Fondements de l’informatique, Algorithmique
+et Programmation, Langues étrangères, Méthodologie de travail universitaire, Algèbre,
+Electromagnétisme et ondes, Architecture des Ordinateurs, Culture digitale.
+1ÈRE ANNÈE
+Cycle préparatoire
+S1 – S2
+Advanced Web Development, Distibuted Algorithms and Architectures, Design Patterns,
+Advanced Software Process, Internet Of Things, Fundamentals of Machine Learning,
+NoSQL Databases, Cloud Foundations, Data Security, SDN & Network Softwarization,
+Parallel Programming, Secure Low Programming, Wireless and Mobile Networks, Software
+Project Management, English TOEFL, Blockchain-Oriented Software Engineering, etc...
+2ÈME ANNÈE
+Cycle ingénieur
+S7 - S8
+Services Oriented Architecture, Virtualization and Containers, DEVOPS and Software
+Industrialisation, Augmented and Virtual reality, Advanced Business Intelligence,
+Applied Machine Learning, Data Mining and Graph Analysis, Advanced Virtualization,
+Multimedia Programming, Design of Cloud data Driven Applications, Research Methods in
+Engineering, Front-End Web Development, Advanced Mobile Development, Data Security.
+3ÈME ANNÈE
+Cycle ingénieur
+S9 - S10
+Advanced Databases, Routing and switching, Object Oriented Programing & UML,
+Advanced Algorithmics & Data Structures, Mathematics for Engineer, Foreign Languages
+1, Data analytics, Mobile and web development, Network Administration and System
+Programming, BI & datawarehousing, Language theory and compilation, Fundamentals
+of Cybersecurity, Culture and Art skills.
+1ÈRE ANNÈE
+Cycle ingénieur
+S5-S6 (année de
+choix de filière de
+spécialisation)
+Les enseignements des cours de la 2ème année et la 3ème année du Cycle Ingénieur se font en anglais.
+Algèbre, Analyse Numérique, Electronique, Initiation aux Bases de Données, Introduction
+aux réseaux, Langues étrangères, Art et Culture, Probabilités et Statistiques, Signaux
+et transmissions, Systèmes d’Exploitation, Algorithmique et programmation, Initiation
+aux Technologies Web, Développement personnel et Responsabilité professionnelle.
+2ÈME ANNÈE
+Cycle préparatoire
+S3– S4
+Choix de l’une des 4 spécialités proposées :
+Big Data & Intelligence Artificielle, Génie Logiciel, Cybersecurité et Cloud Computing & Virtualization
+BAC +5
+SCANNEZ POUR
+EN SAVOIR +
+En partenariat avec
+La School of Aerospace and Automotive Engineering (SAAE) de l’UIR dispense une formation de haut
+niveau dans le domaine de l’aéronautique, du Spatial et l’Automobile.
+Elle englobe des domaines de compétences étendus combinant l’aspect théorique rigoureux et l’aspect
+technologique appliqué, avec une concentration particulière sur le développement des « soft skills »
+appropriés à l’entreprise. Fruit d’une collaboration stratégique entre l’UIR, la Mississippi State University
+(MSU) et Georgia Institute of Technology (GIT), les formations en ingénieries aéronautique et automobile
+ont été conçues conjointement avec Bagley College of Engineering de Mississipi State University et
+Georgia Institute of Technology (GIT).
+Ces partenariats permettent aux étudiants intéressés et éligibles d’avoir un double diplôme: Ingénieur
+d’Etat (UIR), Master of Sciences in Mechanical Engineering et Master of Sciences in Aerospace
+Engineering (MSU ou Georgia Tech).
+REJOINDRE
+SCHOOL OF AEROSPACE
+AND AUTOMOTIVE
+ENGINEERING
+• Bac Sci Mathématiques : A et B
+• Bac Sci Expérimentales : PC et SVT
+• Bac Sciences et Technologies
+• Bac français équivalent
+• Bac étranger reconnu équivalent
+• Épreuve écrite : Mathématiques, Physique
+• Épreuve orale : Entretien de motivation et de
+personnalité
+• 66 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+(MSU) (GIT)
+Au terme du parcours à la School of Aerospace and Automotive Engineering (SAAE) et en vertu de
+l’article 3 du décret n°2.16.244 du 22 juillet 2016, l’étudiant obtient un diplôme reconnu équivalent aux
+diplômes nationaux.
+La formation de l’ingénieur Aéronautique et Automobile (SAAE) de l’UIR se déroule sur cinq ans et est
+principalement axée autour de 2 volets techniques et 3 volets soft skills :
+Engineering Drawing, Engineering Mechanics,Digital
+Electronics, Fluid Mechanics, Machine design, Energy
+system design, Aerodynamics, Embedded systems,
+Fluid Machinery, Aeronautic Propulsion, Aerospace
+Vehicle Performance, Vibrations, Signals and
+Systems , Rocket Propulsion...etc
+Engineering Drawing, Engineering Mechanics, , Digital
+Electronics, Fluid Mechanics, Machine design, Energy
+system design, Embedded systems, Dynamics
+of road vehicle, Vibrations, Combustion Engines,
+Mechanics of deformable solids, Automotive
+electrical and electronic Systems, Power electronics,
+Automotive chassis...etc
+VOLET TECHNIQUE AÉROSPATIAL VOLET TECHNIQUE AUTOMOTIVE
+VOLET MANAGEMENT ET ORGANISATION
+1ère année - UIR
+3ème année - UIR
+2ème année - UIR
+4ème année - UIR
+5ème année - UIR
+5ème année - UIR
+5ème année
+Aerospace - MSU / GIT
+5ème année
+Automotive - MSU / GIT
+ou
+ou
+Concours d’accès
+Admission Bac+
+Diplôme d’Ingénieur d’état
+en Ingénierie Aerospatiale
+Diplôme d’Ingénieur d’état
+en Ingénierie Automobile
+Master of Science
+from MSU or GIT
+Master of science
+from MSU or GIT
+ORGANISATION DES ÉTUDES
+AEROSPACE & AUTOMOTIVE ENGINEERING
++ VOLET LANGUES ET SCIENCES HUMAINES + VOLET INSERTION PROFESSIONNELLE
+BAC +5
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+SCANNEZ POUR
+EN SAVOIR +
+En partenariat avec
+L’École Supérieure d’Architecture de Rabat (ESAR) a pour objectif de proposer une formation de
+haut niveau menant à une pratique nouvelle du projet architectural adapté au contexte du bassin
+méditerranéen et africain.
+La formation est développée en partenariat avec l’École Nationale Supérieure d’Architecture de la Ville
+et des Territoires de Marne-la-Vallée et l’École Nationale Supérieure d’Architecture de Nancy (ENSA de
+Nancy), deux écoles d’architecture de renoms en France.
+Elle se caractérise par l’enseignement de la théorie et de la pratique du projet architectural et urbain.
+La mission principale de cet enseignement est de former des architectes aptes à exercer des pratiques
+professionnelles diversifiées et prêts à remplir de nouvelles missions pour répondre aux complexités
+sociologiques et écologiques du monde qui les entoure.
+Diplôme d’architecte
+Au terme du parcours à l’Ecole Supérieure d’Architecture de Rabat (ESAR) et en vertu de l’article 3 du décret
+n°2.16.244 du 22 juillet 2016, l’étudiant obtient un diplôme reconnu équivalent aux diplômes nationaux
+permettant de travailler avec l’état, dans le secteur privé ou ouverture de cabinet.
+REJOINDRE
+L’ÉCOLE SUPÉRIEURE
+D’ARCHITECTURE
+DE RABAT
+• Bac Economiques
+• Bac Sci Mathématiques : A et B
+• Bac Sci Expérimentales : SVT et PC
+• Bac Arts Appliqués
+• Bac français équivalant
+• Bac étranger reconnu équivalent
+• Épreuve écrite : épreuve de dessin libre et
+dessin de reproduction - Dissertation en
+français
+• Épreuve orale : Entretien oral individuel avec
+jury
+• 85 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+ORGANISATION DES ÉTUDES
+ARCHITECTURE
+Cycle
+Licence
+Cycle
+ Master
+1ère
+année
+Atelier d’architecture Théories, outils, représentation du projet, expression plastique, exprimer
+architecture, analyse, histoire et théories de l’architecture, ville, territoires et sociétés,
+semaines intensives (représentation, formes urbaines, théories de l’architecture) ... etc
+2ème
+année
+Atelier d’architecture, Théories, outils, représentation du projet, expression plastique,
+infographie
+soutenance de mémoire de stage, histoire et analyse de formes urbaines, semaines
+intensives (voyage, croquis, analyse)... etc
+3ème
+année
+Atelier d’architecture, ambiance et thermique, design urbain, structure, multimédias,
+nouvelles technologies et construction durable, équipement, stage, soutenance de
+mémoire de licence, semaines intensives (écoconception, ambiance acoustique
+thermique, communication).
+4ème
+année
+Atelier de projet, mémoire, histoire du paysage et des jardins, critique architecturale,
+stratégies urbaines, sociologie de l’habiter, Eco-conception, descriptif et métré, structure
+technologie et construction, outils numériques (BIM, REVIT, etc.), semaines intensives
+(durabilité urbaine et énergie, Territoire et villes)... etc
+5ème
+année
+Atelier de projet, mémoire, semaines internationales, topographie et cartographie
+numérique, pathologie de construction, plan d’exécution, aspect technico-juridique,
+Rapport de stage, Mémoire en pôle thématique, Soutenance du mémoire, Projet en pôle
+thématique, Soutenance du projet, stage etc.
+6ème
+année
+séminaires : Exercice de la profession, cadre réglementé et responsabilité, Organisation et
+éthique professionnelle, Administration, économie et gestion d’agence, Méthodologie de
+recherche, Mémoire, Projet (PFE)... etc
+BAC +6
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+La licence en droit forme des juristes spécialisés dans le traitement des dossiers de droit
+particulièrement d’ordre commercial, financier, industriel, fiscal, informatique, et maritime etc.
+Les juristes que nous formons pourront répondre aux besoins pressants des milieux d’affaires en
+juristes spécialisés grâce à la maîtrise d’une véritable culture juridique et des techniques de rédaction,
+en particulier des contrats, des statuts et des pactes.
+À la fin de son cycle de formation, l’étudiant acquiert des capacités de prévention des litiges, de veille
+juridique, de gestion des contentieux, renforcées par des stages en entreprise.
+Un Programme de mobilité sortante chez nos universités partenaires
+REJOINDRE
+LA LICENCE EN DROIT
+• Tous types de baccalauréat
+• Bac étranger reconnu équivalent
+• Épreuve écrite : Dissertation en français
+• Épreuve orale :Entretien oral individuel
+avec jury
+• 62 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+En partenariat avec
+BAC Tous types
+1ère
+Année 3ème
+Année
+Diplôme de Licence
+en Droit des Affaires
+Diplôme reconnu par
+l’Etat et à l’étranger
+2ème
+Année
+SEMESTRE 1
+•Introduction à l’étude du Droit
+•Introduction au droit musulman
+•Introduction à la sociologie et
+philosophie du droit
+•Introduction à la science
+politique et au droit
+constitutionnel
+•Introduction à l’économie et à
+la gestion
+• Langues Etrangères (Anglais/
+Arabe /Français /Espagnol)
+• Méthodologie de travail
+universitaire
+SEMESTRE 2
+• Théorie générale des
+obligations
+•Droit commercial fondamental
+•Droit pénal général
+•Introduction au droit public et
+aux relations internationales
+•Droit administratif et
+organisation administrative
+• Langues Etrangéres (Anglais /
+Arabe / Français /Espagnol)
+•Culture digitale
+SEMESTRE 6
+•Droit de la Common Law
+•Droit Bancaire
+•Droit international privé
+•Droit processuel
+•Comptabilité Générale
+• Langues Étrangères (Anglais /
+Arabe / Français / Espagnol)
+•Communication
+SEMESTRE 4
+•Droit des sociétés
+•Organisation judiciaire
+•Droit foncier et droits réels
+• Responsabilité civile
+•Droits de l’Homme et libertés
+publiques
+• Langues Etrangéres (Anglais /
+Arabe / Français /Espagnol)
+•Développement personnel
+SEMESTRE 3
+•Droit de la famille et du
+patrimoine
+•Droit social
+•Droit pénal Spécial
+• Finances publiques et droit
+fiscal
+•Action administrative et
+contentieux administratif
+• Langues Etrangéres (Anglais /
+Arabe / Français /Espagnol)
+•Culture and art skills
+SEMESTRE 5
+•Contrats civils et commerciaux
+/ contrats spéciaux
+• Entreprises en difficultés
+•Droit des sûretés
+•Droit International des Affaires
+et droit de l’OHADA
+•Droit Commercial II :
+Instruments de paiement et
+de crédit
+• Langues Étrangères (Anglais /
+Arabe / Français / Espagnol)
+• Coaching
+ORGANISATION DES ÉTUDES
+DROIT LICENCE BAC +3
+SCANNEZ POUR
+EN SAVOIR +
+Notre programme de formation ambitieux vise à doter les étudiants des compétences et des
+connaissances nécessaires pour comprendre les mécanismes économiques nationaux et internationaux,
+une compréhension approfondie des théories économiques, des concepts fondamentaux et des outils
+analytiques indispensables à l’analyse des phénomènes économiques contemporains. En explorant
+une gamme variée de modules, allant de la microéconomie à la macroéconomie, le droit des affaires
+et l’économie du développement.
+Notre programme intègre également des dimensions juridiques, politiques et sociales de l’économie,
+offrant ainsi une perspective holistique des défis économiques auxquels le monde est confronté
+aujourd’hui. De plus, nous mettons un fort accent sur la méthodologie de la recherche, afin de former
+des individus capables de mener des analyses économiques rigoureuses et de contribuer de manière
+significative au débat académique et professionnel dans le domaine de l’économie.
+REJOINDRE
+LA LICENCE EN ÉCONOMIE
+• Tous types de baccalauréat avec comme
+matière principale la Langue Française
+• Possibilité d’accès à la filière par passerelles
+(Bac+1 / Bac+2).
+• Etude de dossier administratif :
+Dépôt d’un dossier de candidature en ligne
+( bulletins, lettre de motivation...).
+• Etude de dossier pédagogique :
+Dépôt en ligne d’un dossier composé des
+bulletins, d’une lettre de motivation et d’un
+projet professionnel qui permettent de tester
+le niveau scolaire et le niveau de l’écrit.
+• Épreuve orale : Entretien oral individuel
+avec jury
+• 62 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+BAC Tous types
+1ère
+Année 3ème
+Année 2ème
+Année
+SEMESTRE 1
+•Introduction à l’économie
+• Microéconomie (I)
+• Terminologie économique I en
+français
+• Statistiques descriptives
+•Analyse mathématique (I)
+• Langues étrangères : anglais/
+espagnol
+• Méthodologie de travail
+universitaire
+SEMESTRE 2
+•Introduction à l’étude du droit
+• Macroeconomie (I)
+•Analyse mathématique II :
+algèbre
+•Comptabilité générale
+• Théorie et pratique fiscales
+• Langues étrangères : anglais/
+espagnol
+•Culture digitale et humanités
+numériques
+SEMESTRE 6
+•Introduction à l’économétrie
+• Économie internationale
+• Mémoire de fin d’étude
+• Fiscalité
+• Mémoire de fin d’étude
+• Langues étrangères : anglais/
+espagnol
+• Leadership et communication
+SEMESTRE 4
+• Économie monétaire et
+financière (I)
+• Échantillonnage et estimation
+• Économie politique
+•Comptabilité nationale
+•Problèmes économiques
+• Langues étrangères : anglais/
+espagnol
+• Leadership et engagement
+civique
+SEMESTRE 3
+•Droit des affaires
+•Introduction aux sciences
+politiques
+• Économie du développement
+• Microéconomie (II)
+• Macroeconomie (II)
+• Langues étrangères : anglais/
+espagnol
+•Art et culture au Maroc et dans
+le monde arabe
+SEMESTRE 5
+• Finances publiques et droit
+fiscal
+• Histoire de la pensée
+économique
+• Économie solidaire et sociale
+• Méthodologie de la recherche
+•Analyse de données
+• Langues étrangères : anglais/
+espagnol
+• Systèmes de gestion de
+contenu (CMS)
+ORGANISATION DES ÉTUDES
+ECONOMIE LICENCE BAC +3
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+Sciences Po Rabat est un Institut d’Études Politiques (IEP) où les sciences humaines et sociales
+ainsi que l’économie, les relations internationales et le droit, sont mobilisées pour former de
+futurs cadres supérieurs et dirigeants , que ce soit pour le secteur public ou privé, national ou
+international, capables d’agir sur le monde parce qu’ils le comprennent.
+La pédagogie de notre IEP repose sur la combinaison de 3 dynamiques d’apprentissage :
+En partenariat
+avec
+REJOINDRE
+LA LICENCE
+EN SCIENCES
+POLITIQUES
+• Tous types de baccalauréat
+• Bac étranger reconnu équivalent
+• Étude de dossier : Bulletins, lettre de
+motivation (2 pages), projet d’études
+(3 pages)
+• Épreuve orale : Entretien oral
+individuel avec jury
+• 62 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+DOUBLE-PARCOURS AU NIVEAU LICENCE
+ORGANISATION DES ÉTUDES
+• Relations Internationales, sociologie, science politique, droit, économie, géopolitique,
+anthrologie etc.
+• Apprentissage ou renforcement des langues de l’ONU (anglais, espagnol, arabe) par groupes de
+niveau.
+• Apprentissage des méthodes de travail et culture générale.
+• Relations Internationales, sociologie, science politique, droit, économie, géopolitique etc.
+• Cours de spécialités permettant le renforcement dans trois domaines au choix : Politiques
+Internationales ou Politiques Economiques ou Politiques, Cultures et Sociétés.
+• Cours thématiques (histoire de l’Afrique et du panafricanisme, politiques publiques, les
+dynamiques de l’Islam contemporain).
+• Stratégies d’études.
+• Service civique et projet professionnel.
+• Choix des parcours.
+ANNÉE 2
+Spécialisation et enseignements fondamentaux ( en fonction des options )
+LICENCE EN SCIENCES POLITIQUES AVEC 3 PARCOURS
+ANNÉE 3
+Finalisation du 1er cycle et préparation du mémoire de recherche et du projet
+professionnel et orientation master
+• Mobilité internationale au 1er semestre dans une de nos 52 universités partenaires ou un
+stage professionnel.
+• Exemples de cours spécialisés en fonction des parcours communication politique, politique
+de développement, gouvernance africaine, migrations internationales, politiques publiques,
+l’Afrique atlantique, résolution des conflits, politiques économique etc.
+• Séminaires de méthode de recherche académique et préparation du Mémoire.
+• Sélection dans les Masters (accompagnement dans la formulation de vœux).
+RELATIONS
+ INTERNATIONALES
+ECONOMIE ET
+DÉVELOPPEMENT
+CULTURES ET SOCIETES :
+MONDES ARABE ET AFRICAIN
+ RENDRE COMPTE DE L’INFORMATION
+ SAVOIR TROUVER LA BONNE INFORMATION SAVOIR TRAITER L’INFORMATION
+ANNÉE 1
+Acquisition des connaissances fondamentales et pluridisciplinaires
+SCIENCES POLITIQUES LICENCE BAC +3
+SCANNEZ POUR
+EN SAVOIR +
+Le programme de Licence de Psychologie est conçu pour répondre à une demande croissante dans ce
+domaine passionnant. Grâce à une approche innovante et pratique, vous acquerrez les connaissances
+théoriques, les compétences méthodologiques et les outils pratiques nécessaires en matière de
+formation des professionnels de santé mentale, d’accompagnement psychologique et d’orientation.
+Notre engagement envers l’excellence académique et notre environnement d’apprentissage dynamique
+vous prépareront à relever les défis du monde professionnel de demain.
+Que vous souhaitiez poursuivre vos études en psychologie clinique, en neuropsychologie ou en
+psychologie du travail, ou que vous aspiriez à une carrière dans la recherche, les conseils ou les soins
+psychologiques, la Licence de Psychologie au Collège des Sciences Sociales de l’UIR est le premier pas
+vers un avenir prometteur et enrichissant dans le domaine de la psychologie.
+SCANNEZ POUR
+EN SAVOIR +
+ORGANISATION DES ÉTUDES
+REJOINDRE
+LA LICENCE
+EN PSYCHOLOGIE
+• Tous types de baccalauréat
+• Avoir un niveau minimum B1 en langue
+française.
+• Étude de dossier : bulletins, lettre de
+motivation (2 pages), projet d’études
+(3 pages)
+• Épreuve orale : Entretien oral individuel
+avec jury
+• 62 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation • Introduction à la psychologie
+• Domaines de la psychologie
+• Méthodes de la psychologie
+• Sociologie et anthropologie
+• Épistémologie et pensée philosophique
+• Langues étrangères : anglais/espagnol
+• Méthodologie de travail universitaire
+• Psychopathologie de l’adulte et de la personne âgée
+• Psychologie du groupe et du lien social
+• Handicaps et troubles des apprentissages
+• Tests de personnalité et techniques projectives
+• Méthodologie de recherche en psychologie
+• Langues étrangères : anglais/espagnol
+• Leadership et engagement civique
+SEMESTRE 4
+SEMESTRE 1
+• Psychologie clinique et psychopathologie
+• Psychologie sociale
+• Psychologie cognitive
+• Psychologie du développement
+• Neurosciences comportementales
+• Langues étrangères : anglais/espagnol
+• Culture digitale et humanités numériques
+SEMESTRE 2
+• Psychopathologie de l’enfant et de l’adolescent
+• Perception et cognition sociales
+• Neuropsychologie
+• Psychométrie et méthodes d’évaluation
+• Statistiques appliquées à la psychologie
+• Langues étrangères : anglais/espagnol
+• Art et culture au Maroc et dans le monde arabe
+SEMESTRE 3
+• Addictions, violences et victimologie
+• Psychologie du travail et des organisations
+• Psychologie interculturelle
+• Psychologie de la relation d’aide
+• Projet tutoré 1: Préprojet et stage
+d’immersion
+• Langues étrangères : anglais/espagnol
+• Systèmes de gestion de contenu (CMS)
+SEMESTRE 5
+• Approches psychothérapeutiques
+• Santé au travail et risques psychosociaux
+• Gestion des crises et des catastrophes
+• Étude de cas : Fondements théoriques et pratiques
+• Projet tutoré II : Étude de terrain et stage pratique
+• Langues étrangères : anglais/espagnol
+Leadership et communication
+SEMESTRE 6
+Possibilité de passerelles avec certaines filières accréditées par le Ministère de
+tutelle comme « psychomotricité », « éducateur spécialisé » ou « sociologie » sous les
+conditions suivantes :
+• Pour intégrer le semestre 2 de la licence de psychologie :le candidat doit avoir étudié et validé au
+moins deux modules en psychologie.
+• Pour intégrer le semestre 3 de la licence de psychologie : le candidat doit avoir étudié et validé au
+moins quatre modules en psychologie
+• Lettre de motivation justifiant le choix de la nouvelle filière
+• Entretien oral avec le candidat
+MODALITÉS D’ACCÈS
+ANNÉE 1 ANNÉE 2 ANNÉE 3
+PSYCHOLOGIE LICENCE BAC +3
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+SCANNEZ POUR
+EN SAVOIR +
+La filière communication et médias a pour but de former des futurs professionnels de la
+communication grâce à l’acquisition d’un bagage théorique et pratique permettant de s’adapter aux
+diverses exigences des métiers de ce domaine en acquérant notamment un enseignement à la fois
+pratique et théorique qui répond aux exigences et attentes du marché du travail. L’enseignement
+pratique des différents médias est un axe important de la formation (photo, vidéo, son, graphisme,
+web).
+La fillière communication et Médias est créée en collaboration étroite avec notre partenaire
+académique belge de renom : l’Institut des Hautes Études des Communications Sociales (IHECS).
+Dans le cadre de ce partenariat certains cours sont assurés par les enseignants de l’IHECS Belgique.
+Après un cycle de formation de 3 ans (licence), il est possible de se spécialiser dans trois domaines
+clés lors du cursus Master : publicité, relations publiques et journalisme. Les masters sont en codiplomation avec l’IHECS belgique.
+En partenariat avec
+ORGANISATION DES ÉTUDES
+REJOINDRE
+LA LICENCE
+COMMUNICATION
+& MÉDIAS
+• Tous types de baccalauréat
+• Bac étranger reconnu équivalent
+• Épreuve orale : Entretien oral
+individuel avec jury
+• 62 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+La filière communication et médias se déroule suivant un cursus de formation en deux temps : une
+licence sur 3 ans (Bac+3) suivie de deux ans de formation de niveau Master.
+Globalement, la formation en Communication et Médias repose sur une approche transversale
+privilégiant 3 axes majeurs :
+UN AXE DE CULTURE GÉNÉRALE ET DE FONDAMENTAUX EN SCIENCES SOCIALES :
+Cet axe de formation permet aux étudiants d’acquérir une compréhension approfondie des
+contextes sociétaux, culturels et historiques qui façonnent les médias et la communication
+contemporains. Cette fondation solide leur permettra d’analyser de manière critique les enjeux
+complexes de ce domaine en constante évolution.
+UN AXE DE COMPÉTENCES DISCIPLINAIRES :
+En développant des compétences spécifiques et pratiques, les étudiants sont préparés à exceller
+dans des rôles variés au sein de l’industrie des médias et de la communication, tout en restant
+adaptés aux tendances et aux technologies émergentes. Les étudiants acquièrent une expertise
+spécialisée dans les domaines clés de la communication : gestion médiatique, production de
+contenu, rédaction, journalisme, production audiovisuelle, gestion de médias sociaux, marketing
+numérique, et bien plus encore.
+UN AXE DE MANIPULATION PRATIQUE DES MÉDIAS :
+Cet axe met l’accent sur le développement de compétences pratiques essentielles pour créer,
+éditer, diffuser et gérer différents types de contenus médiatiques. Les étudiants sont immergés
+dans des ateliers pratiques où ils apprennent à utiliser des équipements de pointe, à concevoir
+des campagnes médiatiques, à éditer des vidéos, à réaliser des reportages journalistiques, à
+gérer des plateformes de médias sociaux... Cette approche pratique prépare les étudiants à être
+immédiatement opérationnels dans le monde professionnel des médias et de la communication.
+CO-DIPLOMATION ET MOBILITÉ À L’INTERNATIONAL
+Après l’obtention de la licence Communication & Médias, les lauréats poursuivront un Master en
+co-diplomation avec la prestigieuse école IHECS avec une mobilité d‘un semestre en Belgique.
+COMMUNICATION & MÉDIAS LICENCE BAC +3
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+SCANNEZ POUR
+EN SAVOIR +
+Le Programme IPM de Rabat Business School prépare les étudiants à devenir des « Field Managers »
+agiles et capables de s’adapter au contexte multiculturel et aptes à s’engager dans des voies nouvelles.
+*2 parcours s’offrent à vous :
+Standard Track -33% Français / 67% Anglais- English Track -100% AnglaisREJOINDRE
+INTERNATIONAL
+PROGRAM
+IN MANAGEMENT
+• Tous types de baccalauréat
+• Épreuve écrite : Epreuve de raisonnement
+logique et numérique Epreuve d’ouverture
+culturelle
+• Épreuve orale : Entretien de motivation
+• 65 000 dhs / an
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+En partenariat avec
+INTERNATIONAL PROGRAM IN MANAGEMENT
+ANNÉE 1
+30% Anglais ou 100% Anglais
+ANNÉE 2
+70% Anglais ou 100% Anglais
+ANNÉE 3
+100% Anglais
+• Principles of Economics • Computers Tools for
+Managers • Calculus for Business • Statistics • Geopolitics • Principles of Marketing • Principles of Accounting • Principles of Management • Principles of Human
+Resources Management
+• Civic Engagement &
+Reciprocity Project
+• Practical Academic Skills
+• Preparation for TOEIC
+• Preparation for Spanish
+Diploma
+• Career Planning
+IMMERSION INTERNSHIP (6
+WEEKS)
+• Information Systems (SAP) • Microeconomics • Principles of Finance • Data Analytics & Bloomberg • Introduction to Coding &
+Data Visualization • Organizational Behavior • Business Law • Introduction to Operations
+Management
+• Business Game Simulation
+SPECIALIZATION MINORS
+• Finance • Supply chain management • Marketing
+ELECTIVE COURSES
+• Applied VBA Programming
+• Ethical Practices in Finance
+• SCM Business Intelligence • Graphic & Information
+Design • Teams Dynamics • Design Thinking • Managing Employees
+Performance
+FUNCTION-ORIENTED
+OPERATIONAL INTERNSHIP (8
+WEEKS)
+MAJOR SPECIALIZATION
+• Finance & trading • Accounting & audit • Marketing & branding • Advertising & marketing
+communication • Human ressource
+management • Supply chain management • Entrepreneurship &
+innovation
+COMMON COURSES
+• Strategic Management • Entrepreneurship & Start-Up
+Project • Business Ethics • Sustainable Development • Project Management • Digitalization & Management
+of Change
+ELECTIVE COURSES • Game Theory & Decision
+Making • International Trade • Society & Politics in North • Africa • Introduction to Social
+Psychology • Islamic Art & Architecture,
+etc.
+INTERNATIONAL MOBILITY
+FINAL INTERNSHIP JUNIOR
+SPECIALIST (12 WEEKS)
+BACHELOR DISSERTATION
+-JUNIOR SPECIALIST
+LES SPÉCIALITÉS DE LA 3ÈME ANNÉE
+• Finance & Trading Major
+• Accounting & Audit Major
+• Marketing & Branding Major
+• Advertising & Marketing Communication Major
+• Human Ressource Management Major
+• Supply Chain Management Major
+• Entrepreneurship & Innovation Major
+avec +170 partenaires
+académiques dans le
+monde
+INTERNATIONAL MOBILITY
+Obligatoire
+IPM LICENCE BAC +3
+JOIN INTERNATIONAL
+TRIPLE BACHELOR
+RABAT BUSINESS SCHOOL
+IÉSEG SCHOOL OF MANAGEMENT
+HEC MONTRÉAL
+• Only 5% of business schools in the world are AACSB accredited
+• RBS has been part of the top 100 business schools in the world according the Financial
+Times “Master in Management” since 2022. This makes it the 1st and only business school in
+Africa and in the Middle East to appear in this ranking
+• RBS has been accredited by the Moroccan Ministry of Higher Education since 2014
+• Triple crown Business School ( 1% of Business Schools in the world )
+• Ranked in the top 50 Business Schools in the Financial Times Ranking
+• Its programs are recognized in France by the French Ministry of Higher Education and
+Research, and the Conférence des Grandes Ecoles
+• IÉSEG was also awarded the French DD&RS Label in recognition of the social and
+environmental commitment.
+• The first Business School to receive triple accreditation in North America
+• HEC Montréal emphasizes international exchanges, quality of language teaching and
+technological skills development
+• Ranked in the top 5 in Canada according to Times Higher Education (THE World University
+Rankings (2023)
+• More than 13,400 students, 27% are international students from 145 countries
+1ST YEAR 2ND YEAR 3RD & 4RD YEARS
+• Fundamentals of Management
+• Practical Academic Skills
+• Principles of Economics
+• Principles of Marketing
+• Math courses
+• Geopolitics
+• Statistics
+• Construction of a Professional
+ Project
+• Professional Immersion
+ Course
+• Other Courses
+The Art and Science of
+Marketing
+• Ethics & Corporate Social
+ Responsibility
+• People Management
+• Operations Management
+• Management Accounting
+• Other Management Courses
+SPECIALIZATIONS
+• International Affairs
+• Applied Economics
+• Business Analytics
+• Entrepreneurship
+• Finance
+• Project Management
+• Operations Management
+• Human Resource Management
+• Business Intelligence
+• Management
+• Marketing
+• Applied Economics, Finance
+ and Mathematics
+• Other options are available
+INTERNATIONAL TRIPLE BACHELOR
+INSTITUTIONS INVOLVED IN THIS PROGRAM
+APPLICATION REQUIREMENTS
+ADMISSIONS
+Candidates applying for the 1st year at RBS shall meet
+the following requirements :
+Must have earned a high school degree ( or equivalent)
+with the mention “high honours“ (mention bien)
+must sit for a competitive examination composed of 2
+parts in English & French
+1. Written exam :
+A- Logical and numerical thinking
+B- Cultural Awreness
+C- Mathematics
+2. Oral Exam
+Rabat Business School : 120 000 Dhs
+IESEG School of Management : 11 000 euros
+HEC Montréal : according to nationality
+(check the HEC Montréal website)
+pre-application
+on the UIR
+website
+* for year2, students
+recommended by
+RBS will continue the
+excellence path at
+IÉSEG
+*For years 3&4,
+student recommended
+by IÉSEG will continue
+the excellence path at
+HEC Montréal
+Preparation
+of the online
+application form
+Choice of
+the desired
+application path(s)
+STEP 1 STEP 1 STEP 3
+APPLY HERE
+ITB BACHELOR
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF HEALTH
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+SCANNEZ POUR
+EN SAVOIR +
+La Faculté de Médecine de l’UIR a pour missions de :
+• Dispenser à ses étudiants une formation médicale conforme aux standards internationaux de
+qualité, leur permettant de devenir, à la fin de leurs études, des médecins généralistes compétents,
+capables de prodiguer des soins avec compétence selon une approche holistique bio-psycho-sociale
+respectant la dignité et les droits des patients et contribuant à l’amélioration de la santé publique.
+• Répondre aux besoins des médecins en exercice en termes de développement professionnel continu.
+• Développer la recherche biomédicale en vue d’enrichir le savoir scientifique et d’en faire bénéficier
+la société.
+• Fournir des prestations d’expertise à la demande de la société.
+La formation au diplôme de docteur en médecine s’étend sur 6 ans et comporte 12 semestres
+d’enseignement, d’apprentissage et d’évaluation. La formation assure initialement une formation
+préclinique et fondamentale. Elle assure l’acquisition d’un prérequis fondateur qui permettra ensuite une
+formation clinique théorique et pratique..
+REJOINDRE
+LA FACULTÉ
+INTERNATIONALE
+DE MÉDECINE
+• Bac Sciences expérimentales : PC, SVT,
+• Bac Sci Agronomiques
+• Bac Sci mathématiques A
+• Bac Sci mathématiques B
+• Une Présélection basée sur la note
+générale du Baccalauréat.
+• Des épreuves écrites portant chacune
+sur les matières suivantes : Sciences de
+la Vie et de la Terre, Chimie, Physique et
+Mathématiques.
+• 120 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+ORGANISATION DES ÉTUDES
+Anatomie, Chimie et Biochimie, Biologie, Santé Publique, Communication et Langues,
+Méthodologie d’apprentissage, Histologie / Embryologie I, Physique / Biophysique, Anatomie II,
+Sciences Humaines, Techniques de communication
+Stage d’immersion en centres de santé (03 semaines)
+1ÈRE ANNÉE
+Anatomie Pathologique Glandes endocrines, Revêtement cutané, Oncologie Hématologie,
+Pathologie du Système Nerveux, Appareil locomoteur, Immunopathologie, Maladies de l’enfant
+Stage Hospitalier III : Dermatologie ou Endocrinologie, Radiologie ou Rhumatologie (03 mois)
+Stage Hospitalier IV: Cardiologie, Dermatologie, Pneumologie et Radiologie (03 mois)
+Stage Hospitalier V : Pédiatrie (03 mois)
+4ÈME ANNÉE
+Anatomie, Histologie – Embryologie, Microbiologie - Virologie – Immunologie, Physiologie,
+Sémiologie, Secourisme et Médecine expérimentale, Anatomie, Biochimie Clinique, Hématologie
+Fondamentale, Physiologie, Sémiologie
+Stage d’immersion en médecine sociale (03 semaines)
+2ÈME ANNÉE
+Médecine Sociale et Santé Publique, Economie de Santé, Raisonnement Clinique, Urgences et
+Réanimation, Douleurs et Soins Palliatifs, Synthèse Thérapeutique, Santé Mentale, Médecine
+Légale et Médecine du Travail ... etc Stage Hospitalier VI : 3 stages de spécialités médicales et
+ou chirurgicales parmi : Urologie, Néphrologie, ORL, Ophtalmologie, Neuro-Chirurgie, Psychiatrie
+et Rhumatologie (03 mois).
+Stage Hospitalier VII : 3 stages de spécialité M/CH parmi : Urologie, Néphrologie, ORL,
+Ophtalmologie, Neuro-Chirurgie, Psychiatrie et Rhumatologie (03 mois)
+5ÈME ANNÉE
+Médecine de famille
+5 mois de Stages Hospitaliers VIII : deux mois (Médecine, Chirurgie, Pédiatrie, Gynécologie) et/
+ou stages d’un mois (Anesthésie Réanimation, Urgences, Psychiatrie)
+06 mois de Stages hospitaliers IX :
+deux mois de Stages (Médecine, Chirurgie, Pédiatrie, Gynécologie) et/ou stages d’un mois
+(Anesthésie Réanimation, Urgences, Psychiatrie)
+6ÈME ANNÉE
+Parasitologie –Mycologie, Maladies Infectieuses Anatomie pathologique, Radiologie et Imagerie,
+Pharmacologie, Maladies de l’Appareil Respiratoire, Maladies de l’Appareil Cardio- vasculaire,
+Maladies de l’Appareil Digestif
+Stage Hospitalier I : Médecine Générale (03 mois)
+Stage Hospitalier II : Chirurgie Générale (03 mois)
+3ÈME ANNÉE
+MÉDECINE BAC +6
+La Faculté Internationale de Médecine Dentaire, FIMD, a pour objectif de former chaque année des médecinsdentistes aux compétences théoriques et pratiques indispensables à l’exercice de la médecine dentaire.
+Soutenus par une équipe d’enseignants-chercheurs et de praticiens de haut niveau, nos étudiants de la FIMD
+disposeront d’une formation solide qui leur permettra d’acquérir une autonomie de travail et d’accès aux
+connaissances scientifiques et pratiques et de s’adapter à l’évolution future de la profession.
+L’étudiant acquiert ainsi durant son cycle d’études de 6 ans :
+Une connaissance générale de l’être humain, des pathologies et notamment celles concernant la région
+oro-faciale, une formation pratique et clinique dans les domaines des maladies de la bouche, des dents et
+des maxillaires et des techniques de prévention et de traitement,
+Des connaissances scientifiques permettant de s’adapter à l’évolution des connaissances et de s’orienter
+vers des formations spécialisantes ou de recherche doctorale.
+En partenariat
+avec
+REJOINDRE LA FACULTÉ
+INTERNATIONALE DE
+MÉDECINE DENTAIRE
+• Bac Sci expérimentales : PC, SVT,
+• Bac Sci Agronomiques
+• Bac Sci mathématiques A
+• Bac Sci mathématiques B
+• Une Présélection basée sur la note
+générale du Baccalauréat.
+• Des épreuves écrites (QCM ) portant
+chacune sur les matières suivantes :
+Mathématiques, Sciences Naturelles,
+Physiques et Chimie
+• 110 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+ORGANISATION DES ÉTUDES
+Biologie cellulaire moléculaire et génétique, chimie et biochimie générales, anatomie générale,
+biophysique et sciences des matériaux, méthodologie de travail universitaire, sciences
+humaines et sociales, physiologie et biochimie clinique, Initiation à la médecine dentaire,
+embryologie et histologie générales, module ouverture,
++ stage de sensibilisation à l’exercice professionnel de la médecine dentaire
+1ÈRE ANNÉE
+Anomalies et pathologies dento-maxillaires, restaurations à minima et prothèse composite, thérapeutiques
+chirurgicales, éthique et vie professionnelle, dysfonctions et pathologies maxillo-faciales, urgences, aide au
+diagnostic et pathologies générales, information médicale et communication, + Stages cliniques majeurs 4ÈME ANNÉE
+Morphogenese et anatomie cranio -faciales, appareil manducateur, app - anatomie dentaire et
+occlusion, pathologie des tissus durs de la dent, biomatériaux et restaurations coronaires unitaires,
+communication et information médicales, pathologie endotontique et pathologie dentaire
+pédiatrique, prothèses amovibles résines, prévention pratique et professionnelle, module ouverture,
+stage de soins infirmiers etc.
+2ÈME ANNÉE
+Médecine orale, thérapeutiques orthodontiques et prise en charge des enfants à besoins spécifiques,
+prothèses spécifiques, santé communautaire, thérapeutiques pluridisciplinaires et raisonnement clinique,
+éthique et organisation professionnelle, rédaction et information médicales, Module ouverture + Stages
+cliniques majeurs
+5ème ANNÉE
+Stages cliniques d’immersion professionnelle, Stage clinique d’approfondissement pluridisciplinaire,
+examen clinique d’évaluation des compétences & soutenance de la thèse de doctorat en médecine
+dentaire = thèse d’exercice
+A partir de la 6ème année, mobilité possible des étudiants vers les universités partenaires de l’UIR.
+6ÈME ANNÉE
+Pathologie parodontale, prothèses amovibles, occlusodontie et prothèse conjointe plurale, chirurgie
+orale pédiatrique, endodontie de l’enfant et l’adulte, réhabilitation fonctionnelle de l’arcade chez l’enfant,
+APP - restauration pédiatrique et interception, thérapeutiques corono-radiculares, chirurgie orale et
+thérapeutique parodontale... etc
++ Stage d’initiation à la pratique clinique
+3ÈME ANNÉE
+MÉDECINE DENTAIRE BAC +6
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF HEALTH
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+SCANNEZ POUR
+EN SAVOIR +
+La licence en biotechnologie et sciences de la santé est dispensée au sein du Collège des Sciences
+de la Santé, faculté internationale de médecine, de l’Université Internationale de Rabat.
+La biotechnologie regroupe différentes méthodes permettant de développer ou de modifier des
+produits en utilisant des organismes vivants. Dans le domaine de la santé, elle est devenue une
+discipline clé et un outil technologique complémentaire, utilisé pour la production de molécules
+thérapeutiques telles que les médicaments et les vaccins, le diagnostic de diverses maladies,
+ainsi que pour le contrôle des processus de production.
+La licence en biotechnologies et science de la santé a été conçue pour permettre aux étudiants
+d’acquérir des connaissances fondamentales et techniques. Les cours approfondis couvrent des
+sujets tels que la biochimie structurale et métabolique, l’enzymologie, la biologie moléculaire,
+l’immunologie, la pharmacologie, la toxicologie, la génétique et la biologie moléculaire.
+Grâce à cette formation, les étudiants seront préparés à exercer des métiers en lien avec la santé,
+tels que la recherche médicale, l’industrie pharmaceutique, les laboratoires d’analyse médicale,
+et d’autres secteurs liés à la santé.
+REJOINDRE
+LA LICENCE :
+BIOTECHNOLOGIE
+ET SCIENCES DE LA SANTÉ
+• Bac Sci Mathématiques A
+• Bac Sci Mathématiques B
+• Bac Sci de la Vie et de la Terre
+• Bac Sci Physiques
+• Bac Sci Agricoles
+• Étude de dossier
+• Épreuve écrite : SVT, Test de Français
+• Épreuve orale : entretien de motivation et
+de personnalité
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 62 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+1ÈRE ANNÉE
+• Biologie cellulaire
+• Biologie animale et végétale
+• Chimie
+• Mathématiques et Physique
+• Génétique 1
+• Langues étrangères I
+• Méthodologie du travail universitaire
+• Biochimie
+• Embryologie Histologie
+• Immunologie
+• Santé publique
+• Statistiques
+• Langues Etrangères II
+• Culture digitale
+S1
+S2
+2ÈME ANNÉE
+• Enzymologie et génie enzymatique
+• Physiologie
+• Pharmacologie/Toxicologie
+• Hématologie
+• Microbiologie
+• Langues étrangères III
+• Compétences culturelles et artistiques
+• Génétique 2
+• Biologie moléculaire
+• Physiopathologie
+• Immunopathologie
+• Hématopathologie et gestion des
+produits du sang
+• Langues étrangère IV
+• Développement personnel
+S3
+S4
+3ÈME ANNÉE
+• Génomique et Bio informatique
+• Biotechnologie médicale
+• Bioéthique
+• Assurance qualité 1
+• Techniques d’analyses de Laboratoire 1
+• Langues étrangères V
+• Excel avancé
+• Biotechnologie pharmaceutique
+• Epidemiologie
+• Assurance qualité 2
+• Hygiène et sécurité
+• Techniques d’analyses de Laboratoire 2
+• Langues étrangères VI
+• Droit, Civisme et cytoyenneté
+S5
+S6
+ORGANISATION DES ÉTUDES
+BIOTECHNOLOGIE ET SCIENCES DE LA SANTÉ
+BAC +3
+La licence en Diététique et Nutrition est dispensée au sein du Collège des Sciences de la Santé, Ecole
+Supérieure de Sciences Paramédicales, de l’Université Internationale de Rabat. Cette licence vise à former
+des diététiciens, aptes à répondre aux défis actuels de la prévention et du traitement de la malnutrition et des
+maladies chroniques telles que le diabète, l’obésité, les maladies cardiovasculaires… et aussi de la promotion
+du bien-être à travers la nutrition.
+La finalité de cette licence est l’acquisition du savoir-faire, maitrise du savoir-faire et enfin le transfert du
+savoir-faire par la formation des étudiants immédiatement opérationnels en milieu hospitalier, en milieu de
+l’industrie agroalimentaire, en milieu de la restauration collective, et en milieu universitaire.
+Par ailleurs, cette licence viendra renforcer les capacités humaines au niveau national dans le domaine de la
+diététique et la nutrition pour une meilleure contribution à l’amélioration du statut nutritionnel de la population.
+La formation sera assurée par des experts nationaux et internationaux. Il s’agit d’une formation en 3 années
+avec stages et projet de fin d’études.
+SCANNEZ POUR
+EN SAVOIR +
+REJOINDRE
+LA LICENCE DIÉTÉTIQUE
+ET NUTRITION
+• Bac Sci Mathématiques A
+• Bac Sci Mathématiques B
+• Bac Sci de la Vie et de la Terre
+• Bac Sci Physiques
+• Bac Sci Agricoles
+• Étude de dossier
+• Épreuve écrite : SVT, Test Français et
+Anglais
+• Épreuve orale : entretien de motivation
+et de personnalité
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 62 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+• Nutrition Fondamentale
+• Sciences humaines et sociales
+• Sciences Chimiques
+• Biologie cellulaire
+• Anatomie et Physiologie humaine
+• Langues Etrangères (Anglais /
+Français/Espagnol)
+• Méthodologie de travail universitaire
+• Biochimie
+• Microbiologie et toxicologie alimentaire
+• Nutrition de cycle de vie
+• Restauration collective et techniques
+culinaires
+• Stage 1 : Stage d’immersion
+• Langues Etrangères (Anglais /Français/
+Espagnol)
+• Culture digitale
+1ÈRE ANNÉE
+S1
+S2
+• Physiopathologie et nutrition clinique I
+• Méthode d’évaluation de l’Etat nutritionnel
+et de l’activité Physique
+• Physiopathologie et nutrition clinique II
+• Technologies Alimentaires et méthodes
+d’Analyses
+• Stage 2 : Restauration collective
+• Langues Etrangères (Anglais /Français/
+Espagnol)
+• Culture and Art skills
+• Physiopathologie et nutrition clinique III
+• Alimentation durable et sécurité alimentaire
+• Consultation Diététique et diétothérapie
+• Phytothérapie et compléments alimentaire
+• Stage 3 : Stage Hospitalier (service
+Maternité)
+• Langues Etrangères (Anglais /Français/
+Espagnol)
+• Développement Personnel
+2ÈME ANNÉE
+S3
+S4
+• Digital Skills II : Excel avancé
+• Epidémiologie nutritionnelle et méthodologie
+de recherche
+• Assurance qualité et législation alimentaire
+• Nutrition Spécifique (Sport, Sujet âgé)
+• Comportement alimentaire
+• Stage 4 : Stage en milieu hospitalier (service
+adulte : Gastro entérologie/Endocrinologie)
+• Langues Etrangères (Anglais /Français/
+Espagnol)
+• Management et leadership en
+nutrition
+• Stage 5 : Stage hospitalier (Service
+adulte : Cardiologie, Néphrologie)
+• Stage 6 : Stage Hospitalier (service
+pédiatrique)
+• Projet de fin d’étude
+• Projet de fin d’étude
+• Langues Etrangères (Anglais /
+Français/Espagnol)
+• Droit, civisme et citoyenneté
+3ÈME ANNÉE
+S5
+S6
+ORGANISATION DES ÉTUDES
+DIÉTÉTIQUE ET NUTRITION
+BAC +3
+COLLEGE OF HEALTH
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+La licence infirmier polyvalent vise à répondre aux exigences évolutives en compétences et expertises
+en soins infirmiers au Maroc et en Afrique. Cette formation en sciences infirmières met l’accent
+en particulier sur la pratique infirmière polyvalente, et elle se base sur une pédagogie innovante,
+un encadrement et une formation intégrés dans un environnement propice à l’acquisition des
+compétences théoriques et pratiques.
+La LIP accorde une large place à l’apprentissage par compétence et à la formation pratique. Elle
+s’appuiera notamment sur le Centre de Simulation Médicale de l’UIR et les terrains de stage dans
+les hôpitaux et cliniques partenaires. L’objectif étant de former des infirmiers hautement qualifiés
+et opérationnels.
+La formation se déroule en trois années et fait appel à des spécialistes de renom dans le domaine.
+REJOINDRE
+LA LICENCE
+INFIRMIER POLYVALENT
+• Baccalauréat Scientifique
+• Baccalauréat étranger / international reconnu
+équivalent
+• Étude de dossier
+• Épreuve écrite : SVT, Test Français et Anglais
+• Épreuve orale : entretien de motivation et de
+personnalité
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 26 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+• Introduction à la profession
+infirmière et au Système National de
+la Santé
+• Sciences humaines et sociales
+• Eléments de droit ; Ethique et
+déontologie
+• Biologie fondamentale
+• Anatomie, Physiologie et Histologie
+• Sémiologie Clinique
+• Langues, Communication et
+Informatique
+• Prévention des risques et Hygiène
+hospitalière
+• Démarche qualité des soins ;
+Raisonnement clinique 1
+• Epidémiologie ; Economie et gestion de
+la santé
+• Pharmacologie générale et
+thérapeutique
+• Soins infirmiers de base
+• Langues et Pédagogie en santé
+• Stage1 : Stage d’immersion
+1ÈRE ANNÉE
+S1
+S2
+• Raisonnement clinique 2
+• Soins en gynécologie et périnatalité
+• Maladies transmissibles ; Maladies
+chroniques et Programmes d’activités
+sanitaires
+• Soins infirmiers et pathologies
+médicales ; Analyses biomédicales
+• Nutrition et Alimentation
+• Stage 2 : Soins infirmiers dans le Réseau
+des Soins de Santé Primaire (ESSP) 1
+• Soins infirmiers et affections
+chirurgicales
+• Soins infirmiers et pathologies
+spécialisées
+• Soins infirmiers et pathologies en
+réanimation et urgentologie
+• Soins infirmiers et néonatologie ;
+Pédiatrie
+• Stage 3 : Soins infirmiers en chirurgie
+• Stage 4 : Soins infirmiers en
+néonatologie; Pédiatrie
+2ÈME ANNÉE
+S3
+S4
+• Soins infirmiers et spécialité au choix
+• Promotion de la santé ; Protection de
+l’environnement ; Interdisciplinarité en
+soins
+• Statistiques appliquées à la recherche ;
+Méthodologie de recherche
+• Stage 5 : Soins médico-chirurgicaux
+• Stage 6 : Soins infirmiers dans le
+Réseau des Soins de Santé Primaire
+(ESSP) 2
+• Stage 7 : Bloc opératoire et réanimation
+• Management et Leadership
+• Stage 8 : Soins infirmiers
+• Stage 9 : Soins infirmiers spécialisés
+(spécialité au choix)
+• Stage 10 : Soins infirmiers aux
+urgences
+• Projet de fin d’étude
+3ÈME ANNÉE
+S5
+S6
+ORGANISATION DES ÉTUDES
+LICENCE INFIRMIER POLYVALENT
+BAC +3
+SCANNEZ POUR
+EN SAVOIR +
+La licence infirmier anesthésie réanimation vise à répondre aux exigences évolutives en compétences et
+expertises en soins infirmiers au Maroc et en Afrique. Cette formation en sciences infirmières met l’accent en
+particulier sur la pratique infirmière en Anesthésie Réanimation, et elle se base sur une pédagogie innovante,
+un encadrement et une formation intégrés dans un environnement propice à l’acquisition des compétences
+théoriques et pratiques.
+La LIAR accorde une large place à l’apprentissage par compétence et à la formation pratique. Elle s’appuiera
+notamment sur le Centre de Simulation Médicale de l’UIR et les terrains de stage dans les hôpitaux et cliniques
+partenaires. L’objectif étant de former des infirmiers en Anesthésie Réanimation hautement qualifiés et
+opérationnels.
+La formation se déroule en trois années et fait appel à des spécialistes de renom dans le domaine.
+SCANNEZ POUR
+EN SAVOIR +
+REJOINDRE
+LA LICENCE INFIRMIER
+EN ANESTHÉSIE
+RÉANIMATION
+• Baccalauréat Scientifique
+• Baccalauréat étranger / international
+reconnu équivalent
+• Étude de dossier
+• Épreuve écrite : SVT, Test Français et
+Anglais
+• Épreuve orale : entretien de motivation
+et de personnalité
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 26 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+• Introduction à la profession infirmière
+et au Système National de la Santé
+• Sciences humaines et sociales
+• Eléments de droit ; Ethique et
+déontologie
+• Biologie fondamentale
+• Anatomie, Physiologie et Histologie
+• Sémiologie Clinique
+• Langues, Communication et
+Informatique
+• Prévention des risques et Hygiène
+hospitalière
+• Démarche qualité des soins ;
+Raisonnement clinique 1
+• Epidémiologie ; Economie et gestion de la
+santé
+• Pharmacologie générale et thérapeutique
+• Soins infirmiers de base
+• Langues et Pédagogie en santé
+• Stage 1 : Stage d’immersion
+1ÈRE ANNÉE
+S1
+S2
+• Pharmacologie appliquée à l’anesthésie
+réanimation
+• Conduite et déroulement de l’anesthésie ;
+Raisonnement clinique 2
+• Maladies transmissibles ; Maladies
+chroniques et Programmes d’activités
+sanitaires
+• Pathologies chirurgicales
+• Nutrition et Alimentation
+• Stage 2 : Anesthésie en chirurgie générale 1
+• Principes de soins et procédures en
+anesthésie en péri/pré et post opératoire
+• Réanimation médico-chirurgicale
+• Réanimation aux urgences et soins intensifs
+• Secourisme et gestion des catastrophes
+• Stage 3 : Anesthésie en chirurgie pédiatrique 1
+• Stage 4 : Anesthésie en urgences et soins
+intensifs 1
+2ÈME ANNÉE
+S3
+S4
+• Nociception et gestion de la douleur
+• Instrumentation biomédicale en
+anesthésie réanimation
+• Promotion de la santé ; protection de
+l’environnement ; Interdisciplinarité en
+soins
+• Statistiques appliquées à la recherche ;
+Méthodologie de recherche
+• Stage 5 : Anesthésie en chirurgie
+générale 2
+• Stage 6 : Anesthésie en chirurgie
+spécialisée 1
+• Management et Leadership
+• Stage 7 : Anesthésie en chirurgie
+spécialisée 2 Stage 8 : Anesthésie
+en chirurgie pédiatrique 2
+• Stage 9 : Réanimation aux
+urgences et soins intensifs 2
+• Projet de fin d’étude
+3ÈME ANNÉE
+S5
+S6
+ORGANISATION DES ÉTUDES
+INFIRMIER EN ANESTHÉSIE RÉANIMATION
+BAC +3
+COLLEGE OF HEALTH
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+SCANNEZ POUR
+EN SAVOIR +
+La Licence de Technicien de Laboratoire (TECH LAB) de l’École Supérieure des Sciences
+Paramédicales de l’Université Internationale de Rabat forme des professionnels qualifiés dans
+les analyses biomédicales.
+Ce programme de trois ans, encadré par des experts nationaux et internationaux, offre une
+maîtrise des techniques de laboratoire et des technologies de pointe en santé. Il comprend des
+cours théoriques, des travaux pratiques, des stages, et un projet de fin d’études, permettant
+aux étudiants de développer leurs compétences sur le terrain et de se préparer aux défis du
+secteur de la santé.
+REJOINDRE
+LA LICENCE TECHNICIEN
+DE LABORATOIRE
+• Bac Sci de la Vie et de la Terre
+• Bac Sci Mathématiques A
+• Bac Sci Mathématiques B
+• Bac Sci Physiques
+• Bac Sci Agricoles
+• La sélection se fait sur étude de dossier et
+entretien oral
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 26 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+• Santé Publique : Introduction à la
+profession et au système national de
+la santé
+• Anatomie et Physiologie
+• Biologie Fondamentale
+• Elément de droit spécifique à la
+profession / sciences humaine et
+sociales
+• Mathématiques
+• Langues étrangères (Anglais /
+Français)
+• Méthodologie de travail universitaire
+• Pharmacologie Générale et
+Thérapeutique
+• Sémiologie clinique / Terminologie
+médicale
+• Hygiène hospitalière / Prévention des
+risques / Santé au travail
+• Sciences Physiques
+• Stage1 : Immersion
+• Langues étrangères (Anglais / Français)
+• Culture Digitale
+1ÈRE ANNÉE
+S1
+S2
+• Microbiologie
+• Sciences Chimiques: Chimie Générale et
+Organique
+• Biochimie Structurale et Métabolique
+• Hématologie
+• Stage 2: Hématologie
+• Langues étrangères (Anglais / Français)
+• Culture and Art Skills
+• Sciences Chimiques: Chimie Analytique
+• Immunologie et Immunopathologie
+• Bactériologie / Virologie
+• Histologie Médicale
+• Stage 3: Bactériologie / Immunologie
+• Langues étrangères (Anglais / Français)
+• Développement Personnel
+2ÈME ANNÉE
+S3
+S4
+• Parasitologie et Mycologie
+• Génétique et Cytogénétique Moléculaire
+• Contrôle et Assurance Qualité du
+laboratoire d’analyse
+• Stage 4: Virologie / Parasitologie
+• Instrumentation Biomédicale au
+laboratoire d’analyse biologiques
+• Langues étrangères (Anglais / Français)
+• Digital Skills II: Excel avancé
+• Biochimie Clinique et Toxicologie
+• Épidémiologie / Biostatistiques et
+Méthodologie de Recherche
+• Stage 5 : Biochimie / Toxicologie
+• Langues étrangères (Anglais /
+Français)
+• Droit, Civisme et Citoyenneté
+• Projet de fin d’étude
+3ÈME ANNÉE
+S5
+S6
+ORGANISATION DES ÉTUDES
+LICENCE TECHNICIEN DE LABORATOIRE
+BAC +3
+La Licence en Techniques d’Imagerie Médicale, proposée par l’École Supérieure des Sciences
+Paramédicales de l’Université Internationale de Rabat, a pour objectif de former des techniciens
+spécialisés dans le domaine de l’imagerie médicale. Ce programme répond aux besoins croissants en
+compétences et en expertise dans les techniques d’imagerie, essentielles pour le diagnostic médical et
+le suivi des traitements.
+Les diplômés acquerront des compétences pratiques immédiatement applicables dans divers
+environnements professionnels. La formation est assurée par des experts nationaux et internationaux,
+offrant ainsi aux apprenants une perspective globale et diversifiée. Elle s’étend sur six semestres,
+comprenant des cours théoriques, des travaux pratiques, des stages professionnels, ainsi qu’un projet
+de fin d’études. Les apprenants seront formés à l’utilisation d’équipements modernes en radiographie,
+échographie, scanner et imagerie par résonance magnétique (IRM) et à l’application des meilleures
+pratiques en matière de sécurité et de qualité des images médicales.
+REJOINDRE
+LA LICENCE TECHNIQUES
+D’IMAGERIE MÉDICALE
+• Bac Sci de la Vie et de la Terre
+• Bac Sci Mathématiques A
+• Bac Sci Mathématiques B
+• Bac Sci Physiques
+• Bac Sci Agricoles
+• La sélection se fait sur étude de
+dossier et entretien oral
+• Les candidatures se font en ligne sur la
+plateforme www.uir.ac.ma
+• 26 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Épreuves du concours
+Frais de formation
+• Santé Publique : Introduction à la
+profession et au système national de
+la santé
+• Anatomie et Physiologie
+• Biologie Fondamentale
+• Elément de droit spécifique à la
+profession/ sciences humaine et
+sociales
+• Mathématiques
+• Langues étrangères (Anglais/ Français)
+• Méthodologie de travail universitaire
+• Électronique et Électromagnetisme
+• Semiologie Clinique / Terminologie
+Medicale
+• Hygiène hospitalière/ Prévention des
+risques / Santé au travail
+• Sciences Physiques
+• Stage1 : Immersion
+• Langues étrangères (Anglais/
+Français)
+• Culture Digitale
+1ÈRE ANNÉE
+S1
+S2
+• Radio anatomie et Topo anatomie
+• Imagerie Viscérale
+• Dosimétrie
+• Radiobiologie/ Radioprotection
+• Stage 2
+• Langues étrangéres (Anglais/ Français)
+• Culture and Art Skills
+• Angiographie et exploration des organes
+• Radiothérapie et curiethérapie
+• Echographie / IRM et exploration des
+organes
+• Imagerie et traitement d’image 1
+• Stage 3
+• Langues étrangères (Anglais/ Français)
+• Développement Personnel
+2ÈME ANNÉE
+S3
+S4
+• Tomodensitométrie et exploration des
+organes
+• Scintigraphie et exploration des organes
+• Imagerie et traitement d’image 2
+• Instrumentation Biomedicale et
+Imagerie
+• Stage 4
+• Langues étrangères (Anglais/ Français)
+• Digital Skills II: Excel avancé
+• Endoscopie et exploration des
+organes
+• Épidémiologie/ Biostatistiques et
+Méthodologie de Recherche
+• Stage 5
+• Langues étrangères (Anglais/
+Français)
+• Droit, Civisme et Citoyenneté
+• Projet de fin d’étude
+3ÈME ANNÉE
+S5
+S6
+ORGANISATION DES ÉTUDES
+LICENCE TECHNIQUES D’IMAGERIE MÉDICALE
+BAC +3
+SCANNEZ POUR
+EN SAVOIR +
+COLLEGE OF HEALTH
+SCIENCES
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+L’École Supérieure d’Ingénierie Biomédicale de l’UIR propose un programme en Génie Biomédical
+combinant sciences fondamentales, ingénierie et technologies médicales.
+Ce cursus prépare les étudiants à concevoir, développer et gérer des dispositifs et équipements
+biomédicaux destinés au diagnostic, au traitement et à la surveillance des patients.
+REJOINDRE
+LE GÉNIE BIOMÉDICAL
+• Sciences Mathématiques A
+• Sciences Mathématiques B
+• Sciences de la Vie et de la Terre
+• Sciences Physiques
+• Sciences et Technologies Électriques
+• Sciences et Technologies Mécaniques
+• Étude de dossier basée sur les notes en
+mathématiques et physique
+• Concours écrit en sciences
+fondamentales
+• Entretien oral
+• 72 000 DHS / AN
+• + 10 000 dhs de frais d’inscription
+Candidats éligibles
+Modalités de sélection
+Frais de formation
+• Mathématiques 1,
+• Fondements de l’informatique,
+Électricité,
+• Mécanique du point,
+• Biologie cellulaire et moléculaire,
+Langues étrangères 1,
+• Méthodologie du travail universitaire
+• Électromagnétisme,
+• Mathématiques 2,
+• Optique géométrique et instrumentale,
+• Thermodynamique générale,
+• Physiologie humaine et biochimie,
+• Langues étrangères 2,
+• Culture digitale
+1ÈRE ANNÉE
+S1
+S2
+• Mathématiques 3,
+• Mécanique du solide et des systèmes,
+• Propriétés des matériaux,
+• Chimie,
+• Microbiologie et immunologie,
+• Langues étrangères 3,
+• Arts et culture
+• Analyse numérique,
+• Probabilités et statistiques,
+• Optique et traitement du signal,
+• Algorithmique et programmation,
+• Électronique analogique et numérique,
+• Langues étrangères 4,
+• Techniques de communication et
+leadership
+2ÈME ANNÉE
+S3
+S4
+• Électronique analogique,
+• Traitement de signal,
+• Algorithmique C,
+• Anatomie fonctionnelle,
+• Statistiques,
+• Power Skills,
+• Langues étrangères
+• Métrologie,
+• Traitement des signaux biomédicaux,
+• Imagerie médicale 2,
+• Algorithmique avancée,
+• Biologie cellulaire,
+• IA & Data Analytics,
+• Power Skills,
+• Langues étrangères
+• Technique biomédicale 3,
+• Informatique (Web & Database),
+• Technique biomédicale 4,
+• Prothèses & biomécanique,
+• Nouvelles technologies biomédicales,
+• Power Skills, Langues étrangères
+• Électronique numérique,
+• Physiologie humaine,
+• Imagerie médicale 1,
+• Technique biomédicale 1,
+• Microcontrôleurs,
+• Power Skills,
+• Langues étrangères
+• Imagerie médicale 3,
+• Technique biomédicale 2,
+• Projet de filière,
+• Programmation orientée objet,
+• Électronique de puissance,
+• Gestion & économie,
+• Power Skills, Langues étrangères
+• Projet de fin d’études en entreprise
+ou laboratoire
+3ÈME ANNÉE 4ÈME ANNÉE 5ÈME ANNÉE
+S1 S3 S5
+S2 S4 S6
+ORGANISATION DES ÉTUDES
+CYCLE D’INGÉNIEUR
+GÉNIE BIOMÉDICAL
+BAC +5
+VIE SUR
+LE CAMPUS
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF HEALTH
+SCIENCES
+VIVEZ PLEINEMENT
+VOTRE AVENTURE SUR LE CAMPUS CLUBS ET
+ORGANISATIONS
+BÉNÉVOLAT ET ACTIONS
+SOCIALES
+SOIRÉES À THÈME
+INITIATION DE PROJETS
+DE RECHERCHE :
+ACTIVITÉS PARAPÉDAGOGIQUES :
+COURS DE LANGUES
+ÉTRANGÈRES :
+SCANNEZ POUR
+EN SAVOIR +
+Une multitude d’activités au sein des
+installations sportives universitaires
+de haut niveau
+Terrain de football synthétique à 11
+Salle de fitness, salle de musculation,
+d’aérobic et des arts martiaux
+Terrain de Padel
+Terrains de Basketball
+Courts de tennis clôturés
+Terrains de handball/Mini Foot
+Terrains de volley-ball
+Tables de ping pong
++ Plusieurs installations sportives outdoor
+INSTALLATIONS
+SPORTIVES
+Infrastructure certifiée HQE
+ (Haute qualité environnementale)
+TERRAINS
+10
+DE SPORT
+ÉCLAIRÉS ET
+EN LIBRE ACCÈS
+D’UNE SUPERFICIE DE 1500 M2
+SALLE COUVERTE
+PLURIDISCIPLINAIRE
+PISCINE COUVERTE
+SEMI-OLYMPIQUE
+6 Couloirs
+SCANNEZ POUR
+EN SAVOIR +
+VIE SUR
+LE CAMPUS
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF HEALTH
+SCIENCES
+BÉNÉFICIEZ
+DES SERVICES ANNEXES 1
+SUPÉRETTE 6
+POINTS DE
+RESTAURATION
+dont 1 restaurant universitaire
+LAVERIES 2
+UIR LAVERIE / UIR LAVOMATIC 1
+Pour les besoins d’impression
+CENTRE DE
+REPROGRAPHIE
+1
+CENTRE
+DE SANTÉ
+MEDHELP
+Disponible 24h/24, 7j/7
+Des psychologues disponibles
+sur rendez-vous
+CELLULE D’ÉCOUTE 11
+Plus de 10 lignes de trajets
+sur la région Rabat Salé - Témara
+SYSTÈME DE
+NAVETTE
+BIBLIOTHÈQUE
+plus de 80 000 ouvrages 1
+LOGEZ
+SUR LE CAMPUS
+RÉSIDENCES
+8
+UNIVERSITAIRES
+CHAMBRE SINGLE
+à partir de 2800 dh / mois*
+CUISINES COMMUNES ET
+ESPACES DE TRAVAIL
+PAR ÉTAGE
+CHAMBRE DOUBLE
+à partir de 2000 dh / mois*
+* Tarifs appliqués pour l’année
+académique 2024 - 2025
+SCANNER ICI
+POUR EN SAVOIR+
+VIE SUR
+LE CAMPUS
+COLLEGE OF ENGINEERING
+& ARCHITECTURE
+COLLEGE OF
+MANAGEMENT
+COLLEGE OF SOCIAL
+SCIENCES
+COLLEGE OF HEALTH
+SCIENCES INFO ÉTUDES
+ECHANGE
+À L’INTERNATIONAL
+PARTENARIATS
+INTERNATIONAUX
+262
+AFRIQUE
+EUROPE
+ASIE
+AMÉRIQUE DU SUD
+AMÉRIQUE DU NORD
+Les formations proposées par l’Université Internationale de Rabat sont développées en partenariat avec des universités à l’international, afin de
+permettre aux étudiants d’effectuer des échanges académiques, et d’aboutir, pour certaines formations, à une double diplomation.
+45
+PARTENAIRES
+ERASMUS
+PLUS DE
+57
+PAYS
+PLUS DE
+SCANNEZ POUR
+EN SAVOIR +
+L’Université Internationale de Rabat se veut ouverte à tous avec une offre de
+formation accessible !
+Pour ce faire, l’UIR propose aux candidats qui souhaitent accéder à l’un de ses programmes de
+formation deux solutions de financement permettant ainsi de couvrir de manière partielle ou
+complète, les frais de formation ainsi que les frais d’hébergement sous conditions.
+FINANCEMENT
+DE VOS ÉTUDES
+BOURSE SOCIALE
+Pouvant aller de
+8300
+ÉTUDIANTS
+Plus de
+La bourse sociale est au profit des étudiants répondant aux critères suivants :
+à
+Près de 30% DE BOURSIERS
+Obtention du baccalauréat l’année
+de l’inscription à l’UIR ;
+Constitution d’un dossier démontrant une incapacité
+de financement par les tuteurs légaux du candidat.
+Téléchargez la brochure pour plus d’informations
+sur www.uir.ac.ma
+SCANNER ICI
+POUR EN SAVOIR+
+Octroi d’un prêt pouvant aller jusqu’à 50 000 dhs/an auprès de la Banque Populaire
+(6ans maximum de différé)
+PRÊT ÉTUDIANT
+minimum au Baccalauréat - 12/20note générale -
+minimum
+12/20 au national ;
+Accédez au site web de l’UIR
+www.uir.ac.ma
+Cliquez sur « Candidature »
+CANDIDATEZ
+EN QUELQUES
+CLICS
+Téléchargez votre convocation sur
+votre espace candidat ou sur votre
+boite email
+ETAPE 2
+ETAPE 6
+Cliquez sur
+«Candidature bacheliers»
+ETAPE 3
+ETAPE 1
+R e c h a r g e z v o t r e c o m p t e
+candidat et réglez les frais de
+concours comme suit :
+• 750 Dhs pour 1 ou 2 sessions de
+concours
+• 1500 Dhs pour un nombre
+illimité de sessions de concours
+(en espèce à l’UIR ou par
+virement/versement bancaire
+(RIB disponible sur votre
+compte candidat)
+ETAPE 5
+Renseignez
+vos informations et faites votre
+choix de programme(s)
+ETAPE 4
+SCANNEZ POUR
+Pour toute information relative aux concours, CANDIDATER
+merci d’envoyer un email à concours@uir.ac.ma
+www.uir.ac.ma
+UIR Rabat
+Université Internationale de Rabat
+uir.rabat
+@UIRabat
+Université Internationale de Rabat
+SCANNEZ POUR
+EN SAVOIR +
+SUIVEZ-NOUS SUR NOS
+RÉSEAUX SOCIAUX
+Université Internationale de Rabat
+Campus de l’UIR, Parc Technopolis Rabat
+- Rocade de Rabat - Salé
+100 11 Sala Al Jadida - Maroc
+Tel : 00 30 10 30 5 212 00
+contact@uir.ac.ma
