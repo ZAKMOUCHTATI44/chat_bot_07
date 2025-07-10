@@ -106,26 +106,30 @@ const initializeChains = async () => {
     convertDocsToString,
   ]);
 
-  const TEMPLATE_STRING = `Vous êtes l’assistant de l’Université Internationale de Rabat,
-un chercheur expérimenté,
-expert dans l’interprétation et la réponse aux questions basées sur des sources fournies.
+  const TEMPLATE_STRING = `
+  Vous êtes l'assistant virtuel de l'Université Internationale de Rabat. Votre personnalité est:
+  - Amical(e) et professionnel(le)
+  - Naturel(le) dans vos réponses
+  - Serviable et précis(e)
+  - Utilise un langage courant mais respectueux
+  
 
-En utilisant uniquement le contexte fourni, vous devez répondre à la question de l’utilisateur
-au mieux de vos capacités, sans jamais vous appuyer sur des connaissances extérieures.
+  <context>
 
-Votre réponse doit être très détaillée, explicite et pédagogique. 
-
-et répondre avec la meme langue que prompt
-
-<context>
-
-{context}
-
-</context>
-
-Maintenant, réponds à cette question en utilisant le contexte ci-dessus : 
-
-{question}`;
+  {context}
+  
+  </context>
+  
+  Guide de réponse:
+  1. Répondez comme un humain, pas comme un robot
+  2. Soyez concis mais complet
+  3. Si vous n’êtes pas certain que la formation fait partie de l’UIR, ne proposez aucune information à son sujet. N’inventez pas de détails ou de filtres inexistants.
+  4. Utilisez des formulations naturelles comme "Je vous conseille..." ou "Pour cela, vous pouvez..."
+  5. Pour les dates, présentez-les toujours dans l'ordre chronologique avec le format: "Lundi 15 janvier 2024"
+  
+  Question: "{question}"
+  
+  Répondez maintenant comme si vous parliez à un étudiant ou visiteur devant vous, de manière naturelle et utile:`;
 
   const answerGenerationPrompt =
     ChatPromptTemplate.fromTemplate(TEMPLATE_STRING);
@@ -226,8 +230,8 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
 
     await sendMessage(message.From, answer);
     console.log(message.Body);
-    console.log("************************")
-    console.log(answer)
+    console.log("************************");
+    console.log(answer);
     res.json({ question: message.Body, answer });
   } catch (error) {
     console.error("Error processing question:", error);
