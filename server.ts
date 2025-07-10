@@ -33,12 +33,11 @@ app.use(express.json());
 app.use(bodyParser.json());
 
 let vectorStore: any;
-
 // Initialize the vector store and chains
 let finalRetrievalChain: any;
 
 const initializeChains = async () => {
-  const vectorStore = await initVectorStore();
+  vectorStore = await initVectorStore();
   const loader = new JSONLoader("./data/faq.json");
 
   const loaderTxt = new TextLoader("./data/general.txt");
@@ -207,7 +206,7 @@ app.post("/uir-chat-bot", async (req: Request, res: Response) => {
         question: message.Body,
       },
       {
-        configurable: { sessionId: `${message.From}-aibdabdad` },
+        configurable: { sessionId: `${message.From}-09-11` },
       }
     );
 
