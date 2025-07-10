@@ -11,6 +11,7 @@ import { JSONLoader } from "langchain/document_loaders/fs/json";
 import * as parse from "pdf-parse";
 import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 import { sendMessage } from "./src/message";
+import bodyParser from "body-parser";
 
 const app = express();
 const port = process.env.PORT || 7001;
@@ -18,6 +19,8 @@ const port = process.env.PORT || 7001;
 // Middleware
 app.use(cors());
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
 // Initialize FAQ data and vector store
 let faqGraph: any;
